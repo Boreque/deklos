@@ -262,11 +262,11 @@ nav.main-nav a.cta {
 a, #title, #post-list a:hover, #title:hover {
     text-decoration: none;
     color: #5badf0;
-    color: #5694f1;
+    color: white;
 }
 
 p a {
-    color: #5694f1;
+    color: white;
 }
 
 
@@ -335,10 +335,10 @@ em, i {
 }
 
 .home h1 {
-    font-size: 30px;
+font: 19px/1.3em Georgia, serif;    
+font-size: 25px;
     letter-spacing: -1px;
-    color: #222;
-    font-weight: bold;
+    color: #cccccc;
 }
 
 .home h2 {

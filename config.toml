@@ -18,7 +18,7 @@ hasCJKLanguage = false
 	enableRSS = true
 	enableToc = true
 
-	enableDisqus = true
+	enableDisqus = false
 	disqusShortname = "your_disqus_short_name"
 
 
