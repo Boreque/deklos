@@ -17,12 +17,39 @@ Op deze pagina staan links naar websites en wetenschappelijke artikelen over het
 Een onderzoeksprogramma naar de veranderende aarde, met als doel deze wetenschappelijke vondsten te vertalen naar aanbevelingen voor beleid voor gemeenschappen, politiek en het bedrijfsleven. Future Earth komt voort uit twintig globale onderzoeksprogramma's en is de leidende onderzoeksgroep voor het Antropoceen op het moment. Ze publiceren wekelijks een [nieuwsbrief](http://www.anthropocenemagazine.org/), welke hoogtepunten uit het huidige onderzoek naar de aarde bevat. 
 
 
-
-
 ## [International Geosphere Biosphere Programme (1987-2015)](www.igbp.net)
 
 De onderzoeken van de IGBP zijn van onschatbare waarde voor het beeld dat ontstaan is van het Antropoceen. Zij combineerden op grote schaal inzichten in de fysische processen op aarde met socio-economische kennis en gaven zo een inzicht in de interactie tussen mens en aarde. Zie bijvoorbeeld [dit](http://www.igbp.net/publications/summariesforpolicymakers/summariesforpolicymakers/igbpexecutivesummary.5.1b8ae20512db692f2a680007737.html) onderzoek, waarin uitgebreid ingegaan wordt op de complexiteit van het aardsysteem. Het IGBP is overgegaan in het onderzoeksprogramma [Future Earth](http://www.futureearth.org/).
 
-[Beschrijving link](https://www.google.com)
+## [Millenium Ecosystem Assessment (2001-2005)](https://www.millenniumassessment.org/en/index.html)
+
+Dit door de VN gesponsorde onderzoek verdiepte zich in de gevolgen van ecosysteem veranderingen voor mensen. Deze onderzoeken geven een grondig beeld van de verwikkeling tussen mensen en hun omgevingen. [Het onderzoek](https://www.millenniumassessment.org/documents/document.275.aspx.pdf) liet ook zien dat socio-economische factoren een grote rol zullen spelen bij wie de lasten zal dragen van klimaatverandering. Als een vuistregel geldt dat kwetsbare groepen globaal ook de slachtoffers van klimaatverandering zullen zijn. 
+
+<br>
+
+# Wetenschappelijke Literatuur
+
+
+<br>
+
+
+## [Lewis & Maslin - Defining the Anthropocene (2015)](https://www.nature.com/articles/nature14258)
+
+In dit artikel wordt besproken welke mogelijke begindata voor het Antropoceen aangewezen kunnen worden, de geologische maatstaven in acht nemend.
+
+## [Crutzen & Stoermer - The "Anthropocene" (2000)](http://www.igbp.net/download/18.316f18321323470177580001401/1376383088452/NL41.pdf)
+
+Het oorspronkelijke artikel in de newsletter van het [IGBP](www.igbp.net), waarin atmosfeeronderzoeker Crutzen speculeert over het ontstaan van een nieuwe geologische epoche door menselijk handelen. Dit artikel is geschreven na een ingeving die Crutzen had tijdens een [conferentie](https://www.nationalgeographic.com/magazine/2011/03/age-of-man/). Dit artikel bracht de wetenschappelijke literatuur over het Antropoceen op gang. 
+
+<br>
+
+# Boeken
+
+<br>
+
+## [Jeremy Davies - Birth of the Anthropocene (2016)](https://www.ucpress.edu/book/9780520289987/the-birth-of-the-anthropocene)
+
+Dit boek dient als een prima introductie tot de discussie rondom het Antropoceen. Het bevat in grote lijnen de geschiedenis van de aarde en de mensheid, om de huidige crisis in context te plaatsen. Ook bevat het een nuchtere uiteenzetting met verschillende posities in het Antropoceendebat. Een aanrader voor iedereen die dit debat beter wil begrijpen. Davies raadt vooral aan om het Antropoceen als een geologische term te blijven gebruiken, om zo te voorkomen dat de term voor ideologische doeleinden gekaapt wordt. 
+
 
 
