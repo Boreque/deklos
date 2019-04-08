@@ -1,6 +1,5 @@
 # Hugo Theme Cactus Plus
 
-Boris is grappig
 
 [English Document](https://github.com/nodejh/hugo-theme-cactus-plus/blob/master/README.md) | [中文文档](https://github.com/nodejh/hugo-theme-cactus-plus/blob/master/README_zh-cn.md)
 
@@ -119,4 +118,3 @@ Now enter [`localhost:1313`](http://localhost:1313) in the address bar of your b
 ## License
 
 This theme is released under the MIT license. For more information read the [license](https://github.com/nodejh/hugo-theme-cactus-plus/blob/master/LICENSE.md).
-# deklos
