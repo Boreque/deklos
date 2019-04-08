@@ -1,5 +1,5 @@
 # Site settings
-baseurl = "yoptimistic-wright-3aa145.netlify.com"
+baseurl = "optimistic-wright-3aa145.netlify.com"
 languageCode = "en"
 title = "De Klos"
 theme = "hugo-theme-cactus-plus"
