@@ -354,19 +354,19 @@ font-size: 25px;
 .post h1 {    
     margin-top: 40px;
     margin-bottom: 20px;
-    font: 300 32px/1.4em "Helvetica Neue", Helvetica, Arial, sans-serif;
-    color: #aaa;
+    font: 300 32px/1.4em Georiga, serif;
+    color: white;
 }
 
 .post h2 {
     margin-top: 20px;
     margin-bottom: 10px;
-    font: 300 24px/1.5 "Helvetica Neue", Helvetica, Arial, sans-serif;
-    color: #aaa;
+    font: 300 24px/1.5 Georgia, serif;
+    color: white;
 }
 
 .post h2.headline {
-    font: normal 13px/1.5em "Helvetica Neue", Helvetica, Arial, sans-serif;
+    font: normal 13px/1.5em Georiga, serif;
     margin: -5px 0 0 0;
     color: #aab;
     font-size: 13px;
