@@ -822,6 +822,7 @@ h2.month {
 .archief {
     margin: 0 0 50px 0;
     font-size: 16px;
+    color: #aaa;
 }
 
 .archief .post-item {
