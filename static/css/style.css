@@ -1,4 +1,5 @@
 @import url('https://fonts.googleapis.com/css?family=Muli');
+@import url('https://fonts.googleapis.com/css?family=Cormorant+Garamond')
 
 /* To do: Links pagina maken; links updaten; tekst verschijnt nog niet centraal; disqus verwijderen of laten werken */
 
@@ -385,7 +386,7 @@ font-size: 25px;
 }
 
 #post-list h2 {
-    font: normal 17px/1.5em "Helvetica Neue", Helvetica, Arial, sans-serif;
+    font: normal 17px/1.5em "Cormorant Garamond", Helvetica, Arial, sans-serif;
     color: #aaa;
     margin-top: 2px;
 }
