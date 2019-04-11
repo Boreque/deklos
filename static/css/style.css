@@ -525,7 +525,7 @@ Post List
 #post-list a {
     color: #aaa;
     display: block;
-    font: bold 19px/1.7 "Helvetica Neue", helvetica, Arial, sans-serif;
+    font: bold 19px/1.7 Georgia, serif;
 }
 
 #post-list .dates {
