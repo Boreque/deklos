@@ -270,6 +270,10 @@ p a {
     color: white;
 }
 
+#post-lists a{
+    color: #aaa;
+}
+
 
 /*Transitions*/
 
