@@ -51,5 +51,15 @@ Het oorspronkelijke artikel in de newsletter van het [IGBP](www.igbp.net), waari
 
 Dit boek dient als een prima introductie tot de discussie rondom het Antropoceen. Het bevat in grote lijnen de geschiedenis van de aarde en de mensheid, om de huidige crisis in context te plaatsen. Ook bevat het een nuchtere uiteenzetting met verschillende posities in het Antropoceendebat. Een aanrader voor iedereen die dit debat beter wil begrijpen. Davies raadt vooral aan om het Antropoceen als een geologische term te blijven gebruiken, om zo te voorkomen dat de term voor ideologische doeleinden gekaapt wordt. 
 
+# Gerelateerde Sites en Blogs
+
+## [Edwin Wenink](https://www.edwinwenink.xyz)
+
+Edwin schrijft een blog over filosofie, A.I. en zaken gerelateerd aan programmeren. Zijn hulp is cruciaal geweest in het opzetten van deze website.
+
+## [Timothy Morton](https://ecologywithoutnature.blogspot.com/)
+
+Timothy Morton is een filosoof die zich vanuit het object georienteerde denken bezighoudt met het Antropoceen en ecologie.
+
 
 
