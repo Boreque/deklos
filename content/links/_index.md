@@ -47,9 +47,9 @@ Het oorspronkelijke artikel in de newsletter van het [IGBP](www.igbp.net), waari
 
 <br>
 
-## [Cristophe Bonneuil & Jean-Baptiste Fressoz - The Shock of the Anthropocene (2017)](https://www.versobooks.com/books/2388-the-shock-of-the-anthropocene
+## [Cristophe Bonneuil & Jean-Baptiste Fressoz - The Shock of the Anthropocene (2017)](https://www.versobooks.com/books/2388-the-shock-of-the-anthropocene)
 
-Een must-read op het gebied van de Antropoceen-discussie. Fressoz en Bonneuil besteden de tijd om het denken over het Antropoceen historisch in te kaderen en tonen hiermee de effectiviteit van de nieuwe [i] environmental histories [/i]. Zo wordt er stil gestaan bij de relaties tussen de Space Age en de ontdekking van het Antropoceen, bovendien wordt er ook kritiek geleverd op een al te natuurwetenschappelijke benadering van het fenomeen. 
+Een must-read op het gebied van de Antropoceen-discussie. Fressoz en Bonneuil besteden de tijd om het denken over het Antropoceen historisch in te kaderen en tonen hiermee de effectiviteit van de nieuwe *environmental histories*. Zo wordt er stil gestaan bij de relaties tussen de Space Age en de ontdekking van het Antropoceen, bovendien wordt er ook kritiek geleverd op een al te natuurwetenschappelijke benadering van het fenomeen. 
 
 ## [Jeremy Davies - Birth of the Anthropocene (2016)](https://www.ucpress.edu/book/9780520289987/the-birth-of-the-anthropocene)
 
