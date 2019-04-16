@@ -47,11 +47,19 @@ Het oorspronkelijke artikel in de newsletter van het [IGBP](www.igbp.net), waari
 
 <br>
 
+## [Cristophe Bonneuil & Jean-Baptiste Fressoz - The Shock of the Anthropocene (2017)](https://www.versobooks.com/books/2388-the-shock-of-the-anthropocene
+
+Een must-read op het gebied van de Antropoceen-discussie. Fressoz en Bonneuil besteden de tijd om het denken over het Antropoceen historisch in te kaderen en tonen hiermee de effectiviteit van de nieuwe [i] environmental histories [/i]. Zo wordt er stil gestaan bij de relaties tussen de Space Age en de ontdekking van het Antropoceen, bovendien wordt er ook kritiek geleverd op een al te natuurwetenschappelijke benadering van het fenomeen. 
+
 ## [Jeremy Davies - Birth of the Anthropocene (2016)](https://www.ucpress.edu/book/9780520289987/the-birth-of-the-anthropocene)
 
 Dit boek dient als een prima introductie tot de discussie rondom het Antropoceen. Het bevat in grote lijnen de geschiedenis van de aarde en de mensheid, om de huidige crisis in context te plaatsen. Ook bevat het een nuchtere uiteenzetting met verschillende posities in het Antropoceendebat. Een aanrader voor iedereen die dit debat beter wil begrijpen. Davies raadt vooral aan om het Antropoceen als een geologische term te blijven gebruiken, om zo te voorkomen dat de term voor ideologische doeleinden gekaapt wordt. 
 
+<br>
+
 # Gerelateerde Sites en Blogs
+
+<br>
 
 ## [Edwin Wenink](https://www.edwinwenink.xyz)
 
