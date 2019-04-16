@@ -526,7 +526,8 @@ Post List
     padding-top: 20px;
 }
 
-%Post-List titel%
+/*Post-List titel*/
+
 #post-list a {
     color: #aaa;
     display: block;
