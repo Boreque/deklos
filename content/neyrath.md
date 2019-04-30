@@ -49,6 +49,8 @@ Het gevaarlijke aan het geo-constructivisme is dat het pretendeert a-politiek te
 
 Belangrijker is dat het geo-constructivisme een mondiaal kapitalisme tegelijkertijd verdedigt, rechtvaardigt en normaliseert, waarmee de mogelijkheid van een 'sociale oplossing' van het klimaatprobleem uitgesloten lijkt. Neyrat noemt deze tendens van het geo-constructivisme <i>hypermodern</i> [@neyrat2018, pp. 42-44]. Het geo-constructivisme baseert zich op wat berekenbaar is en voorspelbaar met computer modellen, waarbij ook economische processen worden opgenomen. Deze modellen stellen zich niet de vraag <i>of</i> de huidige politieke orde wel wenselijk is, <i>of</i> ongeremde economische groei wel wenselijk is - kortom, alle echte politieke beslissingen blijven buiten deze modellen, waardoor het enkel 'redelijk' lijkt om door te gaan met het aanjagen van de motor van het globale kapitalisme. 
 
+# Referenties
+
 <b>
     
 Het politieke wordt gemarkeerd door de introductie van mogelijke nieuwe richtingen, onverwachte kronkelingen in de menselijke geschiedenis. Vanuit natuurbescherming wordt al lang gepleit voor een radicale bezinning op onze relatie tot de wereld om ons heen, voor een maatschappelijk traject dat tegelijkertijd minder druk legt op de aarde om te leveren aan ons en mensen een betere kans geeft op een betekenisvol leven. Het punt van deze bewegingen, zoals de diepe ecologie, is precies dat de natuur zich niet laat modelleren, dat normen en waarde een bres kunnen slaan in berekeningen. Het geo-constructivisme herprogrammeert liever de gehele aarde, zodat zij een verdere groei van de markt kan dragen, dan dat een meer bescheiden levenshouding gestimuleerd wordt [@neyrath2018, pp. 45 - 56].
