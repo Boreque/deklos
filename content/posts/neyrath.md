@@ -63,4 +63,4 @@ Volgens Neyrat is het geo-constructivisme gebaseerd op de stelling dat de aarde 
     
 Het belangrijkste punt dat Neyrat maakt is dat we een 'ecologie van separatie' nodig hebben. De natuur moet iets zijn dat op afstand blijft van mensen, waar we weliswaar mee van doen hebben, maar dat niet opgeslokt kan worden door menselijke plannen [@neyrat2018, pp. 165-179]. Hij benadrukt dat deze visie eigenlijk al aanwezig is in het geo-constructivisme, zonder dat dit door deze stroming erkend wordt. Een aarde die 'gemanaget' of 'beheerst' moet worden, heeft blijkbaar een eigen kracht die los staat van de mens als 'manager' [@neyrat2018, pp. 81-82]. Een andere visie op de aarde is enkel mogelijk als deze vooronderstelling een hoofdrol krijgt, waarmee de plaats van de mens in de natuur opnieuw doordacht moet worden. De natuur is dan nooit iets wat de mens helemaal kan controleren, maar het grote Andere, het vrije en wilde - waarmee wij kunnen leren leven, maar het wezen waarvan altijd de uitkomsten van onze computermodellen zal overstijgen. 
 
-
+# Referenties
