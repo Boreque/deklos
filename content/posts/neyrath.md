@@ -1,18 +1,15 @@
 ---
-title: "De Unieke Aarde: Frédéric Neyrat"
-description: "Volgens Neyrat is de Aarde geen proces dat beheerst kan worden"
+date: 2019-05-05
+linktitle: De Unieke Aarde
+menu: main
+title: De Unieke Aarde, Frédéric Neyrat
+description: Volgens Neyrat is de Aarde geen proces dat beheerst kan worden
 tags: [
     "Aarde",
     "Frédéric Neyrat",
     "Geo-Constructivisme",
     "Hypermodernisme",
 ]
-date: 2019-05-05
-categories: [
-    "Filosofie",
-    "Boekbespreking",
-]
-menu: "main"
 bibliography: bibliography.bib
 ---
 
