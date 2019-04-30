@@ -1,5 +1,5 @@
 +++
-date= 2019-05-05
+date= 2019-01-01
 menu= "main"
 title = "De Unieke Aarde, Frédéric Neyrat"
 description = "Volgens Neyrat is de Aarde geen proces dat beheerst kan worden"
