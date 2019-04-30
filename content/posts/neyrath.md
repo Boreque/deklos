@@ -5,6 +5,7 @@ tags = [
     "Aarde",
     "Frédéric Neyrat",
     "Geo-Constructivisme",
+    "Hypermodernisme",
 ]
 date = 2019-05-05
 categories = [
