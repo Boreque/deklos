@@ -305,7 +305,7 @@ ul>li {
 
 #post-body, p {   
     color: #aaa;
-    text-align: justify;
+    text-align: left;
     font: 17px/1 'Muli', sans-serif;
     line-height: 150%;    
 }
