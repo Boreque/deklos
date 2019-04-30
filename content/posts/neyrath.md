@@ -1,17 +1,16 @@
----
-date: 2019-05-05
-linktitle: De Unieke Aarde
-menu: main
-title: De Unieke Aarde, Frédéric Neyrat
-description: Volgens Neyrat is de Aarde geen proces dat beheerst kan worden
-tags: [
++++
+date= 2019-05-05
+menu= "main"
+title = "De Unieke Aarde, Frédéric Neyrat"
+description = "Volgens Neyrat is de Aarde geen proces dat beheerst kan worden"
+tags= [
     "Aarde",
     "Frédéric Neyrat",
     "Geo-Constructivisme",
     "Hypermodernisme",
 ]
-bibliography: bibliography.bib
----
+bibliography = "bibliography.bib"
++++
 
 Alles komt vast wel goed. De wetenschappers en ingenieurs buigen zich al decennia over het klimaatprobleem, we begrijpen de aarde beter en beter. De techniek schrijdt voort, in constante versnelling. <!--more--> Twintig jaar geleden waren mobiele telefoons nog een zeldzame verschijning, nu is het uitzonderlijk iemand te treffen die géén WhatsApp gebruikt - mogen we dan niet hopen dat er binnenkort een <i>quick fix</i> komt voor de klimaatproblematiek? Een zonnescherm in de ruimte, of een flinke zwavelinjectie in de atmosfeer om het klimaat te koelen? Deze gedachten circuleren hevig in het debat over de gepaste reacite op klimaatverandering. Ze veronderstellen de mogelijkheid om de Aarde te behandelen als een technisch systeem, dat met kleine aanpassingen richting een wenselijke staat gestuurd kan worden. In zijn boek <i> The Unconstructable Earth </i> ageert <i> Frédéric Neyrat </i> fel tegen dit <i> geo-constructivisme </i> dat alle hoop richt op de beheersing van de Aarde. De Aarde, stelt Neyrat, laat zich niet beheersen. De belofte op een technische redding is het gevaar zelf.
 
