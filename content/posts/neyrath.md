@@ -11,9 +11,9 @@ tags= [
 ]
 +++
 
-Alles komt vast wel goed. De wetenschappers en ingenieurs buigen zich al decennia over het klimaatprobleem, we begrijpen de aarde beter en beter. De techniek schrijdt voort, in constante versnelling. <!--more--> Twintig jaar geleden waren mobiele telefoons nog een zeldzame verschijning, nu is het uitzonderlijk iemand te treffen die géén WhatsApp gebruikt - mogen we dan niet hopen dat er binnenkort een <i>quick fix</i> komt voor de klimaatproblematiek? Een zonnescherm in de ruimte, of een flinke zwavelinjectie in de atmosfeer om het klimaat te koelen? Deze gedachten circuleren hevig in het debat over de gepaste reacite op klimaatverandering. Ze veronderstellen de mogelijkheid om de Aarde te behandelen als een technisch systeem, dat met kleine aanpassingen richting een wenselijke staat gestuurd kan worden. In zijn boek <i> The Unconstructable Earth </i> ageert <i> Frédéric Neyrat </i> fel tegen dit <i> geo-constructivisme </i> dat alle hoop richt op de beheersing van de Aarde. De Aarde, stelt Neyrat, laat zich niet beheersen. De belofte op een technische redding is het gevaar zelf.
+Alles komt vast wel goed. De wetenschappers en ingenieurs buigen zich al decennia over het klimaatprobleem, we begrijpen de aarde beter en beter. De techniek schrijdt voort, in constante versnelling. <!--more--> Twintig jaar geleden waren mobiele telefoons nog een zeldzame verschijning, nu is het uitzonderlijk iemand te treffen die géén WhatsApp gebruikt - mogen we dan niet hopen dat er binnenkort een <i>quick fix</i> komt voor de klimaatproblematiek? Een zonnescherm in de ruimte, of een flinke zwavelinjectie in de atmosfeer om het klimaat te koelen? Deze gedachten circuleren hevig in het debat over de gepaste reactie op klimaatverandering. Ze veronderstellen de mogelijkheid om de Aarde te behandelen als een technisch systeem, dat met kleine aanpassingen richting een wenselijke staat gestuurd kan worden. In zijn boek <i> The Unconstructable Earth </i> ageert <i> Frédéric Neyrat </i> fel tegen dit <i> geo-constructivisme </i> dat alle hoop richt op de beheersing van de Aarde. De Aarde, stelt Neyrat, laat zich niet beheersen. De belofte op een technische redding is het gevaar zelf.
 
-In deze post leg ik uit wat volgens Neyrath het geo-constructivisme is en wat er volgens hem mis mee is. Daarna zal ik kort ingaan op zijn eigen visie op de Aarde als een onvervangbare kracht. 
+In deze post leg ik uit wat volgens Neyrat het geo-constructivisme is en wat er hieraan mis zou zijn. Daarna zal ik kort ingaan op zNeyrat's eigen visie op de Aarde als een onvervangbare kracht. 
 
 <b>
 
@@ -44,8 +44,6 @@ Het gevaarlijke aan het geo-constructivisme is dat het pretendeert a-politiek te
 ### Negeren Sociale Vraagstuk
 
 Belangrijker is dat het geo-constructivisme een mondiaal kapitalisme tegelijkertijd verdedigt, rechtvaardigt en normaliseert, waarmee de mogelijkheid van een 'sociale oplossing' van het klimaatprobleem uitgesloten lijkt. Neyrat noemt deze tendens van het geo-constructivisme <i>hypermodern</i> (42-44). Het geo-constructivisme baseert zich op wat berekenbaar is en voorspelbaar met computer modellen, waarbij ook economische processen worden opgenomen. Deze modellen stellen zich niet de vraag <i>of</i> de huidige politieke orde wel wenselijk is, <i>of</i> ongeremde economische groei wel wenselijk is - kortom, alle echte politieke beslissingen blijven buiten deze modellen, waardoor het enkel 'redelijk' lijkt om door te gaan met het aanjagen van de motor van het globale kapitalisme. 
-
-# Referenties
 
 <b>
     
