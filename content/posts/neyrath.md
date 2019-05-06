@@ -27,27 +27,31 @@ De bekendste vorm van dit geo-constructivisme is <i> geo-engineering </i>, oftew
 
 <b>
 
-Het geo-constructivisme en het bijpassende <i>geo-engineering</i> stellen daarmee dat het project van modernisering en ontwikkeling niet hoeft te stoppen. Een kapitalistische samenleving is verenigbaar met een beperkte Aarde, omdat wij deze Aarde naar onze hand kunnen zetten. Er is, kortom, geen 'natuur'. Waar de natuur wild en onafhankelijk van de mensen is, blijkt volgens de geo-constructivisten juist dat de hele Aarde als een (technisch) systeem gezien kan worden. Er is in wezen geen verschil tussen een ruimteschip of de blauwe planeet (42-42). 
+Het geo-constructivisme en het bijpassende <i>geo-engineering</i> stellen daarmee dat het project van modernisering en ontwikkeling niet hoeft te stoppen. Een kapitalistische samenleving is verenigbaar met een beperkte Aarde, omdat wij deze Aarde naar onze hand kunnen zetten. Er is, kortom, geen 'natuur'. Waar de <i>natuur</i> verwijst naar iets wat wild en onafhankelijk van de mensen is, blijkt volgens de geo-constructivisten juist dat de hele Aarde als een (technisch) systeem gezien kan worden. Er is in wezen geen verschil tussen een ruimteschip of de blauwe planeet (42-42). 
 
 ## Tegen Geo-constructivisme
 
-Neyrat is niet blij met dit discours en laat geen pagina onbenut om zijn afkeer over de met <i> hubris </i> vervulde techneuten te bekritiseren. Zijn methodiek omvat een analyse van de geschiedenis van het geo-constructivistische denken (stammend, voornamelijk, uit de <i>Spage Age</i>), gepaard met inzichten uit een rijk arsenaal aan denkers. De argumenten, zoals ik die lees, komen op de volgende neer:
+Neyrat is niet blij met dit discours en laat geen pagina onbenut om zijn afkeer over de met <i> hubris </i> vervulde techneuten te bekritiseren. Zijn methodiek omvat een analyse van de geschiedenis van het geo-constructivistische denken, gepaard met inzichten uit een rijk arsenaal aan denkers. De argumenten van Neyrat tegen het geo-constructivisme, zoals ik die lees, komen op de volgende neer:
 
 ### Verborgen Politiek
 
-<i>Geo-engineering</i> is geen politiek neutraal gebeuren. Wat als een <i>quick fix</i>, een makkelijke oplossing, gepresenteerd wordt, verbergt daaronderliggende politieke vragen. Wie mag bepalen welk klimaat gewenst is? Wie is er verantwoordelijk voor onverwachte gevolgen? Zo is bekend dat Crutzen's idee van zwavelinjecties zou leiden tot een verzwakt moessoneffect in Azië en Afrika. Dit kan leiden tot watertekorten ter plaatse (31-32). 
+<i>Geo-engineering</i> is geen politiek neutraal gebeuren. Wat als een <i>quick fix</i>, een makkelijke oplossing, gepresenteerd wordt, verbergt daaronderliggende politieke vragen. Wie mag bijvoorbeeld bepalen welk klimaat gewenst is? En wie gaat er verantwoordelijk zijn voor onverwachte gevolgen? Het is bekend dat Crutzen's idee van zwavelinjecties zou leiden tot een verzwakt moessoneffect in Azië en Afrika. Dit kan leiden tot watertekorten ter plaatse en grote schade toebrengen aan miljoenen mensen (31-32). 
 
 <b>
-    
-Het gevaarlijke aan het geo-constructivisme is dat het pretendeert a-politiek te zijn. Immers zou het 'rationeler' zijn om de aarde naar onze hand te zetten, om catastrofes te voorkomen. Dat betekent ook dat het discours geen ruimte laat voor tegenstemmen, of dit nu klimaatsceptici zijn, of natuurbeschermers die vrezen voor de onvoorziene gevolgen van het ingrijpen in het klimaat.  
+
+Het gevaarlijke aan het geo-constructivisme is dat het echter pretendeert a-politiek te zijn. Het presenteert zich als de 'rationele' keuze om de aarde naar onze hand te zetten om catastrofes te voorkomen. Juist doordat het zich neutraal voordoet, is er in dit discours geen ruimte voor tegenstemmen, of dit nu klimaatsceptici zijn, of natuurbeschermers die vrezen voor de onvoorziene gevolgen van het ingrijpen in het klimaat.
 
 ### Negeren Sociale Vraagstuk
 
-Belangrijker is dat het geo-constructivisme een mondiaal kapitalisme tegelijkertijd verdedigt, rechtvaardigt en normaliseert, waarmee de mogelijkheid van een 'sociale oplossing' van het klimaatprobleem uitgesloten lijkt. Neyrat noemt deze tendens van het geo-constructivisme <i>hypermodern</i> (42-44). Het geo-constructivisme baseert zich op wat berekenbaar is en voorspelbaar met computer modellen, waarbij ook economische processen worden opgenomen. Deze modellen stellen zich niet de vraag <i>of</i> de huidige politieke orde wel wenselijk is, <i>of</i> ongeremde economische groei wel wenselijk is - kortom, alle echte politieke beslissingen blijven buiten deze modellen, waardoor het enkel 'redelijk' lijkt om door te gaan met het aanjagen van de motor van het globale kapitalisme. 
+Hiernaast is het zo dat het geo-constructivisme een mondiaal kapitalisme tegelijkertijd verdedigt, rechtvaardigt en normaliseert, waarmee de mogelijkheid van een 'sociale oplossing' van het klimaatprobleem uitgesloten lijkt. Neyrat noemt deze tendens van het geo-constructivisme <i>hypermodern</i> (42-44). Het geo-constructivisme gelooft namelijk niet alleen in de mogelijkheid van economische vooruitgang, maar zelfs dat het dankzij deze voortuigang mogelijk is om alle natuurlijke barrières op te heffen om onbeperkt door te kunnen groeien. 
+
+<b>
+
+Het geo-constructivisme baseert zich op wat berekenbaar is en voorspelbaar met computer modellen, waarbij ook economische processen worden opgenomen. Deze modellen stellen zich niet de vraag <i>of</i> de huidige politieke orde wel wenselijk is, <i>of</i> ongeremde economische groei wel wenselijk is - kortom, alle echte politieke beslissingen blijven buiten deze modellen, waardoor het enkel 'redelijk' lijkt om door te gaan met het aanjagen van de motor van het globale kapitalisme. 
 
 <b>
     
-Het politieke wordt gemarkeerd door de introductie van mogelijke nieuwe richtingen, onverwachte kronkelingen in de menselijke geschiedenis. Vanuit natuurbescherming wordt al lang gepleit voor een radicale bezinning op onze relatie tot de wereld om ons heen, voor een maatschappelijk traject dat tegelijkertijd minder druk legt op de aarde om te leveren aan ons en mensen een betere kans geeft op een betekenisvol leven. Het punt van deze bewegingen, zoals de diepe ecologie, is precies dat de natuur zich niet laat modelleren, dat normen en waarde een bres kunnen slaan in berekeningen. Het geo-constructivisme herprogrammeert liever de gehele aarde, zodat zij een verdere groei van de markt kan dragen, dan dat een meer bescheiden levenshouding gestimuleerd wordt (45-56).
+Het politieke wordt gemarkeerd door de introductie van mogelijke nieuwe richtingen, onverwachte kronkelingen in de menselijke geschiedenis. Het is een probleem dat het geo-constructivisme hier geen ruimte voor laat. Vanuit natuurbescherming wordt al lang gepleit voor een radicale bezinning op onze relatie tot de wereld om ons heen, voor een maatschappelijk traject dat tegelijkertijd minder druk legt op de aarde om te leveren aan ons en mensen een betere kans geeft op een betekenisvol leven. Het punt van deze bewegingen, zoals de diepe ecologie, is precies dat de natuur zich niet laat modelleren, dat normen en waarde een bres kunnen slaan in berekeningen. Het geo-constructivisme herprogrammeert liever de gehele aarde, zodat zij een verdere groei van de markt kan dragen, dan dat een meer bescheiden levenshouding gestimuleerd wordt (45-56).
 
 ## Neyrats visie
 
