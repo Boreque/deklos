@@ -1,5 +1,5 @@
 # Site settings
-baseurl = "https://deklos.netlify.com/"
+baseurl = "https://www.de-klos.net/"
 languageCode = "en"
 title = "De Klos"
 theme = "hugo-theme-cactus-plus"
