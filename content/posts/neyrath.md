@@ -47,7 +47,7 @@ Hiernaast is het zo dat het geo-constructivisme een mondiaal kapitalisme verdedi
 
 <b>
 
-Het geo-constructivisme baseert zich op wat berekenbaar is en voorspelbaar met computermodellen, waarbij ook economische processen worden opgenomen. Deze modellen stellen zich niet de vraag <i>of</i> de huidige politieke orde wel wenselijk is, <i>of</i> ongeremde economische groei nastrevenswaardig is, dit zijn veronderstellingen die bij de modellen horen. Kortom, alle echte politieke beslissingen over wat er toe doet in de toekomst blijven buiten deze modellen. Hierdoor lijkt het 'redelijk' om door te gaan met het aanjagen van de motor van het globale kapitalisme, maar een echte discussie hierover wordt steeds lastiegr.
+Het geo-constructivisme baseert zich op wat berekenbaar is en voorspelbaar met computermodellen, waarbij ook economische processen worden opgenomen. Deze modellen stellen zich niet de vraag <i>of</i> de huidige politieke orde wel wenselijk is, <i>of</i> ongeremde economische groei nastrevenswaardig is, dit zijn veronderstellingen die bij de modellen horen. Kortom, alle echte politieke beslissingen over wat er toe doet in de toekomst blijven buiten deze modellen. Hierdoor lijkt het 'redelijk' om door te gaan met het aanjagen van de motor van het globale kapitalisme, maar een echte discussie hierover wordt steeds lastiger.
 
 <b>
     
