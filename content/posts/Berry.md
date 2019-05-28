@@ -1,5 +1,5 @@
 +++
-date= 2019-06-02
+date= 2019-04-02
 menu= "main"
 title = "Wendell Berry – Lokaal Leven"
 description = "Wat betekent thuiskomen als de wereld op zo’n schaal veranderd?"
@@ -10,6 +10,8 @@ tags= [
     "Wendell Berry",
 ]
 +++
+
+![](/static/images/Wendell_Berry.png)
 
 <i> “Wij zijn planten, die – of wij het nu graag bekennen of niet – met hun wortels de aarde moeten ontstijgen, om in de ether te kunnen bloeien en vruchten te kunnen dragen.” </i>
 
