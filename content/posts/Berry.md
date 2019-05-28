@@ -11,7 +11,7 @@ tags= [
 ]
 +++
 
-![](/images/favicon.ico | width=250)
+<img src="https://github.com/Boreque/deklos/blob/master/images/Wendell_Berry.png" alt="Wendell Berry">
 
 <i> “Wij zijn planten, die – of wij het nu graag bekennen of niet – met hun wortels de aarde moeten ontstijgen, om in de ether te kunnen bloeien en vruchten te kunnen dragen.” </i>
 
