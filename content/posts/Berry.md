@@ -11,8 +11,6 @@ tags= [
 ]
 +++
 
-![](/static/images/Wendell_Berry.png | width=100)
-
 <i> “Wij zijn planten, die – of wij het nu graag bekennen of niet – met hun wortels de aarde moeten ontstijgen, om in de ether te kunnen bloeien en vruchten te kunnen dragen.” </i>
 
 -	Johan Peter Hebel (geciteerd in Heidegger, 1979, p. 43)
