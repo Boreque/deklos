@@ -44,6 +44,8 @@ Ik, voor mij, heb gekozen te blijven. Nederland heb ik geaccepteerd als mijn thu
 Als het lokale ons niet de antwoorden geeft op hoe te leven en wat te doen, dan kunnen wij via het lokale in ieder geval de vragen leren begrijpen. En wel op zo’n manier dat deze vragen ons daadwerkelijk tot aan de wortels raken.
 
 ### Referenties
+
 Heidegger, M. (1979). Gelatenheid. (E. Van Doosselaere, Trans.). Tielt: Lannoo.
+
 Purdy, J. (1999). For Commong Things. New York: Alfred A. Knopf.
 
