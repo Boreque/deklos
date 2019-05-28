@@ -12,4 +12,4 @@ De Klos is een filosofische blog over het Antropoceen en is opgericht om deze te
 
 ### De Klos
 
-De Klos wordt beheerd en geschreven door Boris van Meurs, promovendus filosofie aan de Radboud Universiteit in Nijmegen.
+De Klos wordt beheerd en geschreven door Boris van Meurs, buitenpromovendus filosofie aan de Radboud Universiteit in Nijmegen.
