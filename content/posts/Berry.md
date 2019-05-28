@@ -16,7 +16,7 @@ tags= [
 <i> “Wij zijn planten, die – of wij het nu graag bekennen of niet – met hun wortels de aarde moeten ontstijgen, om in de ether te kunnen bloeien en vruchten te kunnen dragen.” </i>
 -	Johan Peter Hebel (geciteerd in Heidegger, 1979, p. 43)
 <!--more-->
-## Thuiskomen op de Globe
+### Thuiskomen op de Globe
 
 De moderne mens wordt naar twee kanten getrokken. Aan de ene kant willen wij de hele wereld zien, lange reizen maken en vreemde culturen ‘ervaren’. Tegelijkertijd waarderen wij steeds meer het lokale en kopen we plaatselijke producten, variërend van speicaalbier tot biologische groente. We willen niet xenofobisch zijn en zoeken het vreemde op, maar we proberen tegelijkertijd de lokale wereld nieuw leven in te blazen. 
 
