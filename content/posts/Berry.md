@@ -1,5 +1,5 @@
 +++
-date= 2019-04-02
+date= 2019-06-02
 menu= "main"
 title = "Wendell Berry – Lokaal Leven"
 description = "Wat betekent thuiskomen als de wereld op zo’n schaal veranderd?"
