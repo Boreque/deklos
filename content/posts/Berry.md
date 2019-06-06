@@ -18,12 +18,12 @@ tags= [
 
 <i> “Wij zijn planten, die – of wij het nu graag bekennen of niet – met hun wortels de aarde moeten ontstijgen, om in de ether te kunnen bloeien en vruchten te kunnen dragen.” </i>
 
--	Johan Peter Hebel (geciteerd in Heidegger, 1979, p. 43)
+\-	Johan Peter Hebel (geciteerd in Heidegger, 1979, p. 43)
 
 <!--more-->
 ### Thuiskomen op de Globe
 
-De moderne mens wordt naar twee kanten getrokken. Aan de ene kant willen wij de hele wereld zien, lange reizen maken en vreemde culturen ‘ervaren’. Tegelijkertijd waarderen wij steeds meer het lokale en kopen we plaatselijke producten, variërend van speicaalbier tot biologische groente. We willen niet xenofobisch zijn en zoeken het vreemde op, maar we proberen tegelijkertijd de lokale wereld nieuw leven in te blazen. 
+De moderne mens wordt naar twee kanten getrokken. Aan de ene kant willen wij de hele wereld zien, lange reizen maken en vreemde culturen ‘ervaren’. Tegelijkertijd waarderen wij steeds meer het lokale en kopen we plaatselijke producten, variërend van speciaalbier tot biologische groente. We willen niet xenofobisch zijn en zoeken het vreemde op, maar we proberen tegelijkertijd de lokale wereld nieuw leven in te blazen. 
 
 Deze dubbelheid hoort bij het Antropoceen, dat tijdperk waarin de mens van bepalende invloed is op het aardsysteem als geheel. Als mensen zijn we namelijk betrokken geraakt in een verhaal dat groter is dan onze thuisplek. Wat wij lokaal doen, heeft een globaal effect. En dit globale effect, bijvoorbeeld door klimaatverandering, verandert hoe de lokale wereld eruit zal komen te zien. Hoe kunnen wij ons thuis voelen op aarde, als we weten dat ons thuis betrokken is geraakt in een verhaal dat de hele aarde treft?
 
