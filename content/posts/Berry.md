@@ -13,6 +13,8 @@ tags= [
 
 ![](https://github.com/Boreque/deklos/blob/master/static/images/Wendell_Berry.png?raw=true "Wendell Berry")
 
+<p style="text-align: center;">Wendell Berry</p>
+
 
 <i> “Wij zijn planten, die – of wij het nu graag bekennen of niet – met hun wortels de aarde moeten ontstijgen, om in de ether te kunnen bloeien en vruchten te kunnen dragen.” </i>
 
