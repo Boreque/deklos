@@ -3,7 +3,7 @@ baseurl = "https://www.de-klos.net/"
 languageCode = "en"
 title = "De Klos"
 theme = "hugo-theme-cactus-plus"
-googleAnalytics = "your_google_analytics_id"
+googleAnalytics = "UA-143165550-1"
 # Set the value to true if your site include CJK (Chinese, Japanese, and Korean languages) characters
 hasCJKLanguage = false
 
