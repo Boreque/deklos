@@ -1,5 +1,5 @@
 +++
-date= 2019-07-01
+date= 2019-07-07
 menu= "main"
 title = "Klimaatverandering? Klimaatverbetering! Ecomodernisme en het Antropoceen"
 description = "Het Ecomodernisme stelt dat juist door modernisering de problemen rondom het klimaat aangepakt kunnen worden"
@@ -12,8 +12,6 @@ tags= [
 +++
 
 ![]( https://raw.githubusercontent.com/Boreque/deklos/master/static/images/Solar_Fields_Boris_Van_Meurs_De_Klos.png "Een veld met zonnepanelen")
-
-<p style="text-align: center;"> Een veld met zonnepanelen </p>
 
 Kan de techniek, die het Antropoceen heeft veroorzaakt, ons ook niet weer uit de problemen halen? Kunnen wij mensen nu niet eindelijk rationeel bepalen hoe de aarde eruit komt te zien? Volgens het ecomodernisme moeten we onze angst voor de techniek verliezen en de aarde naar ‘onze’ hand durven zetten.
 
@@ -49,9 +47,9 @@ De droom is dat mensen een synthetische wereld kunnen bouwen, een soort circulai
 
 Het is duidelijk dat het ecomodernisme veel van ons zal aanspreken, omdat de positie belooft dat alles kan blijven zoals het is. Er is geen politiek nodig, er is bestaat geen werkelijke conflict: door een techniek te ontwikkelen die ons allemaal dient, kan de aarde richting een fantastisch Antropoceen gestuurd worden. Als we ons ontkoppeld hebben van de grillen van de natuur, dan kunnen we systemen bouwen die perfect werken en ons geven wat we nodig hebben. 
 
-Het ecomodernisme leunt dus op een ideologie van <b>oneindige innovatie</b> en <b>vooruitgang</b>. Dit betekent dat voor ecomodernisten het heden nog niet goed genoeg en plaats moet maken voor een toekomst die sneller, beter, en mooier is. Interessant is dat het ecomodernisme niet naar een duidelijk eindpunt werkt. Hierdoor is het onduidelijk wanneer een toekomst ‘gemaakt’ is, die wél goed genoeg is. Oneindige innovatie is ook een constante achterdocht voor het heden. 
+Het ecomodernisme leunt dus op een ideologie van <i>oneindige innovatie</i> en <i>vooruitgang</i>. Dit betekent dat voor ecomodernisten het heden nog niet goed genoeg en plaats moet maken voor een toekomst die sneller, beter, en mooier is. Interessant is dat het ecomodernisme niet naar een duidelijk eindpunt werkt. Hierdoor is het onduidelijk wanneer een toekomst ‘gemaakt’ is, die wél goed genoeg is. Oneindige innovatie is ook een constante achterdocht voor het heden. 
 
-Doordat het ecomodernisme zich presenteert als een rationele optie, gebaseerd op onderzoek en aanwijsbare data, vermijdt het ook de politieke discussie. Het presenteert de geschiedenis als een voorspelbaar en meetbaar proces. Samenlevingen worden niet geacht voor een ander traject te kunnen kiezen. Het ‘juiste’ pad van ontwikkeling is al uitgestippeld aan de hand van techniek en liberalisme. Efficiëntie is zó duidelijk een meetbaar doel, dat eigenlijk iedere andere keuze als een zelfmoord wordt gezien voor samenlevingen. Het woord dat hierbij past is <b>transitie</i>. Er is geen breuk of revolutie mogelijk, maar alleen een constante overgang van minder, naar meer efficiënte samenlevingen (zonder duidelijk eindpunt).
+Doordat het ecomodernisme zich presenteert als een rationele optie, gebaseerd op onderzoek en aanwijsbare data, vermijdt het ook de politieke discussie. Het presenteert de geschiedenis als een voorspelbaar en meetbaar proces. Samenlevingen worden niet geacht voor een ander traject te kunnen kiezen. Het ‘juiste’ pad van ontwikkeling is al uitgestippeld aan de hand van techniek en liberalisme. Efficiëntie is zó duidelijk een meetbaar doel, dat eigenlijk iedere andere keuze als een zelfmoord wordt gezien voor samenlevingen. Het woord dat hierbij past is <i>transitie</i>. Er is geen breuk of revolutie mogelijk, maar alleen een constante overgang van minder, naar meer efficiënte samenlevingen (zonder duidelijk eindpunt).
 
 Het ecomodernisme is verleidelijk, doordat het een beeld schetst van een vredige overgang naar een alsmaar betere wereld. We lijken te leven in een wereld die niet meer gelooft in de mogelijkheid van een keuze voor wat nieuw en anders is. Dat wil zeggen, in een wereld die niet meer gelooft in de werkelijkheid van ideologisch conflict. In zo’n wereld is het ecomodernisme onvermijdelijk een kracht van proportie.
 
