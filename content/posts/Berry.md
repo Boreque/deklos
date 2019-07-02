@@ -52,5 +52,5 @@ Als het lokale ons niet de antwoorden geeft op hoe te leven en wat te doen, dan 
 
 Heidegger, M. (1979). Gelatenheid. (E. Van Doosselaere, Trans.). Tielt: Lannoo.
 
-Purdy, J. (1999). For Commong Things. New York: Alfred A. Knopf.
+Purdy, J. (1999). For Common Things. New York: Alfred A. Knopf.
 
