@@ -1,5 +1,5 @@
 +++
-date= 2019-07-07
+date= 2019-07-06
 menu= "main"
 title = "Klimaatverandering? Klimaatverbetering! Ecomodernisme en het Antropoceen"
 description = "Het Ecomodernisme stelt dat juist door modernisering de problemen rondom het klimaat aangepakt kunnen worden"
