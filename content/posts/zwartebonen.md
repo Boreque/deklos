@@ -1,5 +1,5 @@
 +++
-date= 2019-07-04
+date= 2019-08-04
 menu= "main"
 title = "Zwarte Bonen en het Antropoceen"
 description = "Wat een blik bonen ons over de wereldverhouding van het Antropoceen vertelt"
@@ -28,12 +28,14 @@ Ik meen mij te herinneren dat de filosoof [Ton Lemaire](https://www.kb.nl/themas
 
 ![]( https://github.com/Boreque/deklos/blob/master/static/images/boris_van_meurs_bonen.jpeg?raw=true)
 
+<i> Aldi, Goedland Zwarte Bonen. [Copyright](https://proxy.duckduckgo.com/iu/?u=https%3A%2F%2Fwww.aldi.nl%2Fcontent%2Fdam%2Faldi%2Fnetherlands%2Fproducts%2Faldi-brands%2Fgoedland%2F2036_groente_in_blik_04.png%2F_jcr_content%2Frenditions%2Fopt.1250w.png.res%2F1515401799874%2Fopt.1250w.png&f=1) van Aldi. </i>
+
 
 ### De Zwarte Bonen van het Antropoceen
 
 Ik vond een interessante parallel met het werk van Friedrich op een blik zwarte bonen van de Aldi. Volgens mij wordt in de verschuiving die plaats heeft gevonden sinds de vroege 19e eeuw van Friedrich duidelijk wat er nieuw is aan het Antropoceen. Wat zien we? Een bakje met zwartebonen staat gestald voor een agrarisch landschap dat zich tot aan de horizon uitstrekt. Er wordt een pollepel in dit bakje gestoken, schijnbaar vanuit het perspectief van de kijker. Het landschap is verlaten: we zien geen mensen of dieren. Aan de horizon staat geschreven: "Zwarte Bonen". 
 
-Dit blik illustreert volgens mij de relatie tot de wereld van het Antropoceen. Zo'n 50% van alle grond is door mensen in cultuur gebracht en een rapport van U.S. EPA liet zien dat er in 2012 zo'n 3 miljard kilo pesticide gebruikt werd, wereldwijd. [1] Landbouw is geïntensiveerd en grote monocultuurproductie is niet uitzonderlijk. Zulke landschappen moeten noodzakelijk gepaard gaan met het gebruik van gifstoffen. Doordat er zoveel van één soort bijeenstaat, is de kans op plagen namelijk erg groot. Geen kolkende nevelzeeën meer: in het Antropoceen is het landschap getemd.
+Dit blik illustreert volgens mij de relatie tot de wereld van het Antropoceen. Zo'n 50% van alle grond is door mensen in cultuur gebracht en een rapport van U.S. EPA liet zien dat er wereldwij in 2012 zo'n 3 miljard kilo pesticide gebruikt werd. [1] Landbouw is geïntensiveerd om de grote wereldbevolking te voeden en monocultuurproductie is niet uitzonderlijk. Zulke monocultuurlandschappen moeten noodzakelijk gepaard gaan met het gebruik van gifstoffen. Doordat er zoveel van één soort bijeenstaat, is de kans op plagen namelijk erg groot. Geen kolkende nevelzeeën meer: in het Antropoceen is het landschap getemd en platgespoten.
 
 We zien op het blik, vreemd genoeg, dat de mens desondanks niet langer centraal staat: op de plaats van de mens vinden wij een schaaltje bonen. Dit schaaltje treedt ons als het ware tegemoet, terwijl de grond waarop het geproduceerd is in de achtergond verdwijnt. Er valt niets te zien op dit land, het gaat eindeloos hetzelfde door. Dit wordt nog bevestigd door de mens, de kijker, die slechts met zijn pollepel naar het schaaltje beweegt. Belangrijk is wat het land oplevert, niet het land zelf. De mens overziet het landschap en richt het in, het land staat in het teken van het product dat het voor de mens kan leveren. 
 
