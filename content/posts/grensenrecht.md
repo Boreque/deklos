@@ -10,6 +10,9 @@ tags= [
 ]
 +++
 
+![]( https://github.com/Boreque/deklos/blob/master/static/images/sealevelrise.jpeg?raw=true  "Sea Level Rise")
+
+<i>The Bulletin, Sea Level Rise, [Copyright](https://thebulletin.org/wp-content/uploads/2018/04/sea-level-rise-1024x768.jpg). Zwart/wit gemaakt. </i>
 
 ### Recht en het Antropoceen
 
