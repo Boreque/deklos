@@ -32,6 +32,9 @@ Dit door de VN gesponsorde onderzoek verdiepte zich in de gevolgen van ecosystee
 
 <br>
 
+## [Chakrabarty - Anthropocene Time (2018)](https://onlinelibrary.wiley.com/doi/full/10.1111/hith.12044)
+
+Chakrabarty geeft in dit artikel de problemen weer die ontstaan wanneer wij pogen om de geologische tijdschaal met die van de menselijke geschiedenis te verbinden. Een krachtige analyse van de moeizame integratie van wetenschapsgebieden.
 
 ## [Lewis & Maslin - Defining the Anthropocene (2015)](https://www.nature.com/articles/nature14258)
 
@@ -54,6 +57,10 @@ Een must-read op het gebied van de Antropoceen-discussie. Fressoz en Bonneuil be
 ## [Jeremy Davies - Birth of the Anthropocene (2016)](https://www.ucpress.edu/book/9780520289987/the-birth-of-the-anthropocene)
 
 Dit boek dient als een prima introductie tot de discussie rondom het Antropoceen. Het bevat in grote lijnen de geschiedenis van de aarde en de mensheid, om de huidige crisis in context te plaatsen. Ook bevat het een nuchtere uiteenzetting met verschillende posities in het Antropoceendebat. Een aanrader voor iedereen die dit debat beter wil begrijpen. Davies raadt vooral aan om het Antropoceen als een geologische term te blijven gebruiken, om zo te voorkomen dat de term voor ideologische doeleinden gekaapt wordt. 
+
+## [Colin Summerhayes - Earth's Climate Evolution (2015)](https://onlinelibrary.wiley.com/doi/book/10.1002/9781118897362)
+
+Summerhayes heeft als geoloog een grondig overzicht van de turbulente geschiedenis van de geowetenschappen. Dit boek is een epische reis langs de hoogtepunten van deze geschiedenis, terwijl de lezer onderwijl een begrip ontwikkelt van de belangrijkste processen van het aardsysteem. Geen [i]easy read[/i], maar onmisbaar om een zicht te krijgen op het complexe systeem van onze planeet.
 
 <br>
 
