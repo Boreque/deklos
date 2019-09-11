@@ -62,6 +62,10 @@ Dit boek dient als een prima introductie tot de discussie rondom het Antropoceen
 
 Summerhayes heeft als geoloog een grondig overzicht van de turbulente geschiedenis van de geowetenschappen. Dit boek is een epische reis langs de hoogtepunten van deze geschiedenis, terwijl de lezer onderwijl een begrip ontwikkelt van de belangrijkste processen van het aardsysteem. Geen *easy read*, maar onmisbaar om een zicht te krijgen op het complexe systeem van onze planeet.
 
+## [Jan Zalasiewic et al. - The Anthropocene as a Geological Time Unit (2019)](https://www.cambridge.org/core/books/anthropocene-as-a-geological-time-unit/302E1AF722FB327504FC1E0343A1D2C7)
+
+Een fantastisch overzicht van de discussie over het Antropoceen tot nu toe. Hierin wordt besproken wat voor bewijs er nodig gaat zijn om het Antropoceen officieel als epoche aan te nemen, evenals tot welke discussies dit in de geesteswetenschappen heeft geleid. Het boek is een grondige studie naar de sporen die onze tijd achter zich zal laten. 
+
 <br>
 
 # Gerelateerde Sites en Blogs
