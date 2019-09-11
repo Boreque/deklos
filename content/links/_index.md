@@ -60,7 +60,7 @@ Dit boek dient als een prima introductie tot de discussie rondom het Antropoceen
 
 ## [Colin Summerhayes - Earth's Climate Evolution (2015)](https://onlinelibrary.wiley.com/doi/book/10.1002/9781118897362)
 
-Summerhayes heeft als geoloog een grondig overzicht van de turbulente geschiedenis van de geowetenschappen. Dit boek is een epische reis langs de hoogtepunten van deze geschiedenis, terwijl de lezer onderwijl een begrip ontwikkelt van de belangrijkste processen van het aardsysteem. Geen [i]easy read[/i], maar onmisbaar om een zicht te krijgen op het complexe systeem van onze planeet.
+Summerhayes heeft als geoloog een grondig overzicht van de turbulente geschiedenis van de geowetenschappen. Dit boek is een epische reis langs de hoogtepunten van deze geschiedenis, terwijl de lezer onderwijl een begrip ontwikkelt van de belangrijkste processen van het aardsysteem. Geen (i)easy read(/i), maar onmisbaar om een zicht te krijgen op het complexe systeem van onze planeet.
 
 <br>
 
