@@ -1,7 +1,7 @@
 +++
 date= 2019-10-06
 menu= "main"
-title = Paniek en de Klimaatbeweging
+title = "Paniek en de Klimaatbeweging"
 description = "Onrust in het Antropoceen"
 tags= [
     "Klimaatpaniek",
