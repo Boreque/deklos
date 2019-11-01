@@ -1,10 +1,11 @@
++++ date= 2019-09-01 menu= "main" title = "Grens en Recht in het Antropoceen" description = "Een nieuwe vorm van recht in het Antropoceen" tags= [ "Wet", "Politiek", "Antropoceen" ] +++
+
 +++
 date= 2019-11-03
 menu= "main"
 title = "Film en het Antropoceen I: Mother! (2017)”
 description = "Mother"
-tags= [
-    "Film",
+tags= [ "Film",
     "Beeld van de Aarde",
     "Aronofsky",
     "Mother!"
