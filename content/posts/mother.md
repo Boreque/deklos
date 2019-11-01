@@ -12,6 +12,7 @@ tags= [
 +++
 
 ![](https://github.com/Boreque/deklos/blob/master/static/images/mother.png?raw=true "Mother")
+*Still uit Mother! (2017), [copyright Flickr](https://www.flickr.com/photos/jenlawfilms/36061626864)* 
 
 *Komende vier maanden bespreek ik films die te maken hebben met het Antropoceen of onze relatie tot de aarde. Welke ideeën vinden we terug in de beeldtaal van de bioscoop? Hoe begrijpen we onze verhouding tot de planeet waar de mensensoort ontstond?* <!--more--> 
 
