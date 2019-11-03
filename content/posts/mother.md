@@ -1,14 +1,17 @@
 +++
-date= 2019-11-03
-menu= "main"
-title = "Film en het Antropoceen I: Mother! (2017)”
+title = "Mother! (2017) Film en het Antropoceen"
 description = "Mother"
-tags= [
+tags = [
     "Film",
-    "Beeld van de Aarde",
-    "Aronofsky",
-    "Mother!",
+    "antropoceen",
+    "Mother",
 ]
+date = 2019-11-01
+categories = [
+    "Film",
+    "Anthropocene",
+]
+menu = "main"
 +++
 
 ![](https://github.com/Boreque/deklos/blob/master/static/images/mother.png?raw=true "Mother")
