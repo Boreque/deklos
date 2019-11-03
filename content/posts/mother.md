@@ -1,7 +1,7 @@
 +++
 date= 2019-11-03
 menu= "main"
-title = "Film en het Antropoceen: Mother! (2017)”
+title = " Film en het Antropoceen: Mother (2017) ”
 description = "Mother"
 tags= [ 
     "Film",
