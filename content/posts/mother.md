@@ -51,7 +51,7 @@ Bestuderen wij de [*Earth System sciences*](https://www.futureearth.org), de wet
 
 ## Nieuwe metaforen
 
-We moeten de aarde dus emanciperen van dit beeld van de vrouw. Deze opgave ligt niet voor ons omdat we de onderdrukking van een kwetsbare Moeder Aarde moeten stopzetten. Deze opgave ligt voor ons, omdat Moeder Aarde een kracht van proportie is, en op de kleinste verstoringen wild kan reageren. De aarde zal wel blijven bestaan, evenals het leven op aarde. Eenzelfde zekerheid hebben wij niet voor onze menselijke levensvorm. 
+We moeten de aarde dus emanciperen van dit beeld van de vrouw. Deze opgave ligt niet voor ons omdat we de onderdrukking van een kwetsbare Moeder Aarde moeten stopzetten. Deze opgave ligt voor ons, juist omdat Moeder Aarde een kracht van proportie is, en op de kleinste verstoringen wild kan reageren. De aarde zal wel blijven bestaan, evenals het leven op aarde. Eenzelfde zekerheid hebben wij niet voor onze menselijke levensvorm. 
 
 Hoe beelden we deze verstoorde relatie op een juiste manier af? Welke verhalen kunnen we vertellen om de onzekere toekomst dragelijk te maken? *Mother!* bekritseert, terecht, de judeo-christelijke traditie, waarin God de Vader kan opereren in complete vergetelheid van Moeder Aarde. Het probleem is dat de aarde geen tam wezen is dat met grote ogen naar alles kijkt wat wij doen. De aarde laat zich niet zo gemakkelijk vergeten en we zullen meer en meer van haar woeste gebrul horen...
 
