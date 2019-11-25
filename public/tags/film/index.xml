@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Film on De Klos</title>
+    <link>https://www.de-klos.net/tags/film/</link>
+    <description>Recent content in Film on De Klos</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <lastBuildDate>Fri, 01 Nov 2019 00:00:00 +0100</lastBuildDate>
+    
+	<atom:link href="https://www.de-klos.net/tags/film/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Film en het Antropoceen I: Mother! (2017)</title>
+      <link>https://www.de-klos.net/posts/mother/</link>
+      <pubDate>Fri, 01 Nov 2019 00:00:00 +0100</pubDate>
+      
+      <guid>https://www.de-klos.net/posts/mother/</guid>
+      <description>&lt;p&gt;&lt;img src=&#34;https://github.com/Boreque/deklos/blob/master/static/images/mother.png?raw=true&#34; alt=&#34;&#34; title=&#34;Mother&#34; /&gt;
+&lt;em&gt;Still uit Mother! (2017), &lt;a href=&#34;https://www.flickr.com/photos/jenlawfilms/36061626864&#34;&gt;copyright Flickr&lt;/a&gt;&lt;/em&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;em&gt;Komende vier maanden bespreek ik films die te maken hebben met het Antropoceen of onze relatie tot de aarde. Welke ideeën vinden we terug in de beeldtaal van de bioscoop? Hoe begrijpen we onze verhouding tot de planeet waar de mensensoort ontstond?&lt;/em&gt;&lt;/p&gt;</description>
+    </item>
+    
+  </channel>
+</rss>

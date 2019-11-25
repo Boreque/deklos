@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Filosofie on De Klos</title>
+    <link>https://www.de-klos.net/categories/filosofie/</link>
+    <description>Recent content in Filosofie on De Klos</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <lastBuildDate>Fri, 01 Mar 2019 00:00:00 +0100</lastBuildDate>
+    
+	<atom:link href="https://www.de-klos.net/categories/filosofie/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Spoorzoeken</title>
+      <link>https://www.de-klos.net/posts/spoorzoeken/</link>
+      <pubDate>Fri, 01 Mar 2019 00:00:00 +0100</pubDate>
+      
+      <guid>https://www.de-klos.net/posts/spoorzoeken/</guid>
+      <description>&lt;h2 id=&#34;spoorzoeken&#34;&gt;Spoorzoeken&lt;/h2&gt;
+
+&lt;p&gt;Het is een bekende notie van Dipesh Chakrabarty (2015) dat in het Antropoceen de geschiedenis van de aarde en de mens zijn samengekomen. De mens is een natuurkracht geworden, in staat om de aarde te dereguleren.&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Golden Spikes, Aardsysteemwetenschappers en Kerntesten</title>
+      <link>https://www.de-klos.net/posts/goldenspikes/</link>
+      <pubDate>Tue, 01 Jan 2019 00:00:00 +0100</pubDate>
+      
+      <guid>https://www.de-klos.net/posts/goldenspikes/</guid>
+      <description>&lt;p&gt;Het is 2019. Waar zijn we? We bevinden ons op aarde. Deze trouwe planeet, het kader van alle menselijke verhalen.&lt;/p&gt;</description>
+    </item>
+    
+  </channel>
+</rss>

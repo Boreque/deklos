@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Wendell Berry on De Klos</title>
+    <link>https://www.de-klos.net/tags/wendell-berry/</link>
+    <description>Recent content in Wendell Berry on De Klos</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <lastBuildDate>Sun, 02 Jun 2019 00:00:00 +0200</lastBuildDate>
+    
+	<atom:link href="https://www.de-klos.net/tags/wendell-berry/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Wendell Berry – Lokaal Leven</title>
+      <link>https://www.de-klos.net/posts/berry/</link>
+      <pubDate>Sun, 02 Jun 2019 00:00:00 +0200</pubDate>
+      
+      <guid>https://www.de-klos.net/posts/berry/</guid>
+      <description>&lt;p&gt;&lt;img src=&#34;https://github.com/Boreque/deklos/blob/master/static/images/Wendell_Berry.png?raw=true&#34; alt=&#34;&#34; title=&#34;Wendell Berry&#34; /&gt;&lt;/p&gt;
+
+&lt;p style=&#34;text-align: center;&#34;&gt;Wendell Berry&lt;/p&gt;
+
+&lt;p&gt;&lt;i&gt; “Wij zijn planten, die – of wij het nu graag bekennen of niet – met hun wortels de aarde moeten ontstijgen, om in de ether te kunnen bloeien en vruchten te kunnen dragen.” &lt;/i&gt;&lt;/p&gt;
+
+&lt;p&gt;-  Johan Peter Hebel (geciteerd in Heidegger, 1979, p. 43)&lt;/p&gt;</description>
+    </item>
+    
+  </channel>
+</rss>
