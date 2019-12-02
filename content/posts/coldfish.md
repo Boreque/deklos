@@ -27,7 +27,7 @@ Syamoto ([Mitsuru Fukikoshi](https://en.wikipedia.org/wiki/Mitsuru_Fukikoshi)) i
 
 Op belangrijke momenten in de film zoekt Syamoto het lokale planetarium op, waar hij staart naar de blauwe aarde in het zwarte heelal. Een kalme stem vertelt hem: "... over 4.6 miljard jaar zal de aarde zijn leven beëndigen." De zwijgende aarde zelf verschijnt als een ijkpunt tegenover de turbulente afdaling in de hel die de eenvoudige winkelier in zich draagt. 
 
-Welke relatie tot de aarde spreekt uit deze meditatie op haar eindigheid? Is er troost in het idee dat alles ooit ophoudt? *Cold Fish* nodigt uit tot een reflectie over de eindigheid van de mens in het licht van de eindigheid van onze planeet. 
+Welke relatie tot de aarde spreekt uit deze meditatie op haar eindigheid? Is er troost in het idee dat alles ooit ophoudt? *Cold Fish* nodigt uit tot een reflectie over de eindigheid van de mens in het licht van de eindigheid van onze planeet. Ik zal eerst het plot van de film bespreken, dan het thema van menselijke eindigheid - om af te sluiten met de rol van de eindigheid van de aarde in deze film.
 
 
 ## Van winkelier tot moordenaar
@@ -36,7 +36,7 @@ Wanneer de dochter van Syamoto uit een warenhuis steelt, gaan hij en zijn vrouw 
 
 ![](https://github.com/Boreque/deklos/blob/master/static/images/coldfish3borisvanmeurs.png?raw=true)
 
-Marata is de tegenpool van de bescheiden Syamoto. Grofgebekt, doortastend, luidruchtig. Prachtige vrouw aan zijn zijde. Geadoreerd door Syamoto's dochter. En dan blijkt hij een seriemoordenaar te zijn. In koelen bloede hakken hij en zijn vrouw mensen tot mootjes. Onverhoopt raakt Syamoto bij deze slachtingen betrokken. Tot zijn eigen afschuw staat hij al spoedig lichamelijk overschot van Marata's slachtoffers te verbranden in de bossen. Onderwijl sppokt het beeld van de aarde rond door zijn hoofd. De aarde ontstond 4.6 miljard jaar geleden en zal over 4.6 miljard jaar vergaan... Het vergezicht lijkt nodig om Syamoto bij zijn zinnen te houden.
+Marata is de tegenpool van de bescheiden Syamoto. Grofgebekt, doortastend, luidruchtig. Prachtige vrouw aan zijn zijde. Geadoreerd door Syamoto's dochter. En dan blijkt hij een seriemoordenaar te zijn. In koelen bloede hakken hij en zijn vrouw mensen tot mootjes. Onverhoopt raakt Syamoto bij deze moorden betrokken. Tot zijn eigen afschuw staat hij al spoedig lichamelijk overschot van Marata's slachtoffers te verbranden in de bossen. Onderwijl spookt het beeld van de aarde rond door zijn hoofd. De aarde ontstond 4.6 miljard jaar geleden en zal over 4.6 miljard jaar vergaan... Het vergezicht lijkt nodig om Syamoto bij zijn zinnen te houden.
 
 ![](https://github.com/Boreque/deklos/blob/master/static/images/coldfish4borisvanmeurs.png?raw=true)
 
@@ -44,14 +44,14 @@ Op het einde van de film draaien de rollen om. Marata moedigt de zwakke Syamoto 
 
 ## Dood
 
-Eindigheid is een belangrijk thema van de film, vooral omdat de dood zo onceremonieel wordt afgebeeld. De kijker wordt telkens geconfronteerd met de sterfelijkheid van de mens en de banaliteit van het sterven. In de organen, uitgesmeerd over de tegels van Marata's moordkeet, is niets meer van menselijke waardigheid te herkennen.
+Eindigheid is een belangrijk thema van de film. De dood wordt expliciet en onceremonieel afgebeeld. De kijker wordt hierdoor geconfronteerd met de banaliteit van het sterven. Waarvan de mens ook droomt, uiteindelijk eindigt zijn bestaan in het uiteenvallen van zijn lichaam. Onder onze verwachtingen van het leven, gaat een lichaam zonder betekenis schuil. In de organen, uitgesmeerd over de tegels van Marata's moordkeet, is niets meer van menselijke waardigheid te herkennen.
 
-Maar als de dood zo betekenisloos is, dan biedt ook het leven in *Cold Fish* geen uitweg. De levende mens, op weg van zijn geboorte naar zijn dood, wordt al als even waardeloos afgebeeld. Als de botten van slachtoffers in plastic zakken in een rivier gegooid worden, grapt Marata dat dit voer is voor de vissen. De mens, afstammend van deze zeewezens in een evolutionair verleden, eindigt opnieuw in hun midden. Al onze 'vooruitgang', heeft het ons boven het banale gegeven van leven en dood kunnen verheffen? Het is moeilijk om in de vissen met hun lege blikken niet een parallel te zien met de mens, die in zijn eigen aquaria ronddobbert, wachtend op het einde. 
+In *Cold Fish* is het sterven betekenisloos, maar ook het leven beeldt het grauw af. De levende mens, op weg van zijn geboorte naar zijn dood, moet zien te blijven geloven in verhalen, waarvan hij weet dat ze uiteindelijk geen eeuwigheidswaarde hebben. Als de botten van slachtoffers in plastic zakken in een rivier gegooid worden, grapt Marata dat dit voer is voor de vissen. De mens, afstammend van deze zeewezens in een evolutionair verleden, eindigt opnieuw in hun midden. Al onze 'vooruitgang', heeft het ons boven het banale gegeven van leven en dood kunnen verheffen? Het is moeilijk om in de vissen met hun lege blikken niet een parallel te zien met de mens, die in zijn eigen aquaria ronddobbert, wachtend op het einde. 
 
 
 ## De aarde
 
-Op een vreemde manier deelt de aarde in onze menselijke eindigheid. Syamoto is gefascineerd met het beeld dat hij in het planetarium zag. "Onze blauwe planeet, de aarde, werd 4.6 miljard jaar geleden geboren... en zal over 4.6 miljard jaar zijn leven beëndigen." 
+Op een vreemde manier deelt de aarde in onze menselijke eindigheid. Syamoto is gefascineerd met het beeld dat hij in het planetarium zag. "Onze blauwe planeet, de aarde, werd 4.6 miljard jaar geleden geboren... en zal over 4.6 miljard jaar zijn leven beëindigen." 
 
 De eindigheid van de aarde vormt een lek in het verhaal dat de mens over zichzelf vertelt. Al het menselijke handelen is uit op iets. We willen dingen bereiken, we willen *iemand* zijn. Het beeld van de planeet in de koude, lege ruimte laat zien dat al dit streven uiteindelijk niets vermag. Hoe succesvol we ook kunnen worden, de menselijke geschiedenis stopt met die van de aarde. En dan blijft er niets meer van over.
 
