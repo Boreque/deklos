@@ -6,7 +6,7 @@ tags = [
     "antropoceen",
     "Politiek",
 ]
-date = 2020-01-05
+date = 2019-01-05
 categories = [
     "Film",
     "Anthropocene",
@@ -16,7 +16,7 @@ menu = "main"
  
 # Film en het Antropoceen III: Light of my Life (2019) en Zombieland: Double Tap (2019)
 
-![](https://github.com/Boreque/deklos/blob/master/static/images/light_of_my_life.png?raw=true)
+![](https://github.com/Boreque/deklos/blob/master/static/images/zombieland.jpg?raw=true)
 
 ## Toekomstdromen en -nachtmerries
 
@@ -45,6 +45,8 @@ Ik hoop dat deze post laat zien hoe het afbeelden van de toekomst telkens
 ook een boodschap over het heden met zich meebrengt. 
 
 ## Light of my Life
+
+![](https://github.com/Boreque/deklos/blob/master/static/images/Light_of_my_life.png?raw=true)
 
 In *Light of my Life* dwaalt een vader (Casey Affleck) met zijn dochter
 Rag ([Anna Pniowsky](https://www.imdb.com/name/nm6370548/?ref_=tt_cl_t1))
@@ -78,7 +80,7 @@ overheid. Zonder wetten, zonder politie is de mens een beest.
 
 ## Zombieland
 
-![](https://github.com/Boreque/deklos/blob/master/static/images/zombieland.jpg?raw=true)
+![](https://github.com/Boreque/deklos/blob/master/static/images/zombieland2.JPG?raw=true)
 
 Een totaal ander beeld komen we tegen in de film *Zombieland: Double Tap*,
 het vervolg op de  *Zombieland* die tien jaar geleden uitkwam. *Double
