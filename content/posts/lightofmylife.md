@@ -48,15 +48,14 @@ ook een boodschap over het heden met zich meebrengt.
 
 ![](https://github.com/Boreque/deklos/blob/master/static/images/Light_of_my_life.png?raw=true)
 
-In *Light of my Life* dwaalt een vader (Casey Affleck) met zijn dochter
-Rag ([Anna Pniowsky](https://www.imdb.com/name/nm6370548/?ref_=tt_cl_t1))
-door een wereld die onveilig is geworden nadat bijna alle vrouwen
-gestorven zijn aan een mysterieuze ziekte. De jonge Rag is één van de
+In *Light of my Life* dwaalt het jonge meisje
+Rag ([Anna Pniowsky](https://www.imdb.com/name/nm6370548/?ref_=tt_cl_t1)) met haar vader (Casey Affleck)
+door onveilige wereld waarin bijna alle vrouwen gestorven zijn aan mysterieuze epidemie. Rag is één van de
 laatste meisjes die is geboren na deze epidemie en ze loopt daarmee groot gevaar in de handen
 te vallen van mannen met slechte bedoelingen. Haar vader probeert haar zo
 lang als het gaat te vermommen als jongetje in de hoop dat ze geen prooi wordt van seksbeluste kerels. Hun geheim raakt echter keer
-op keer bekend. Vader en dochter slaan op een vlucht zonder einde door de
-winterse wildernis en langs de randen van wat er nog over is van de beschaving.
+op keer bekend; vader en dochter slaan op een vlucht zonder einde door de
+bevroren landschappen van een winterse wildernis en langs de randen van wat er nog over is van de beschaving.
 
 De constante dreiging van geweld tegen de kwetsbare Rag maakt van *Light
 of my Life* een tragisch verhaal. De vlucht  kent
