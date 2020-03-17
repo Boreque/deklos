@@ -32,6 +32,10 @@ Dit door de VN gesponsorde onderzoek verdiepte zich in de gevolgen van ecosystee
 
 <br>
 
+## [Santana - Waiting for the Anthropocene (2019)](https://academic.oup.com/bjps/article/70/4/1073/4935146)
+
+In dit paper argumenteert wetenschapsfilosooif *tegen* het Antropoceen. Zijn belangrijkste argumenten zijn dat het tijdperk ofwel te sterk zou overlappen met Holoceen, ofwel geen wérkelijke breuk vormt met voorgaande periodes. Het paper is interessant om een goed geïnformeerde, kritische stem over het Antropoceen te horen. 
+
 ## [Chakrabarty - Anthropocene Time (2018)](https://onlinelibrary.wiley.com/doi/full/10.1111/hith.12044)
 
 Chakrabarty geeft in dit artikel de problemen weer die ontstaan wanneer wij pogen om de geologische tijdschaal met die van de menselijke geschiedenis te verbinden. Een krachtige analyse van de moeizame integratie van wetenschapsgebieden.
