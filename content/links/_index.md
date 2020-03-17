@@ -58,6 +58,10 @@ Een must-read op het gebied van de Antropoceen-discussie. Fressoz en Bonneuil be
 
 Dit boek dient als een prima introductie tot de discussie rondom het Antropoceen. Het bevat in grote lijnen de geschiedenis van de aarde en de mensheid, om de huidige crisis in context te plaatsen. Ook bevat het een nuchtere uiteenzetting met verschillende posities in het Antropoceendebat. Een aanrader voor iedereen die dit debat beter wil begrijpen. Davies raadt vooral aan om het Antropoceen als een geologische term te blijven gebruiken, om zo te voorkomen dat de term voor ideologische doeleinden gekaapt wordt. 
 
+## [Amitav Ghosh - The Great Derangement (2016)](https://www.athenaeum.nl/boek/?authorTitle=amitav-ghosh/the-great-derangement--9780226526812/)
+
+Ghosh is normaliter een fictieschrijver. In dit boek buigt hij zich over de vraag waarom het zo moeilijk is om literatuur te schrijven over de klimaatcrisis. Ook pleit hij voor een minder eurocentrisch perspectief op het Antropoceen: in Azië zullen de belangrijkste beslissingen over de toekomst van de aarde genomen worden. Een zeer rijk werk, diep gegrond in literaire theorie, geologie en politieke wetenschap. 
+
 ## [Colin Summerhayes - Earth's Climate Evolution (2015)](https://onlinelibrary.wiley.com/doi/book/10.1002/9781118897362)
 
 Summerhayes heeft als geoloog een grondig overzicht van de turbulente geschiedenis van de geowetenschappen. Dit boek is een epische reis langs de hoogtepunten van deze geschiedenis, terwijl de lezer onderwijl een begrip ontwikkelt van de belangrijkste processen van het aardsysteem. Geen *easy read*, maar onmisbaar om een zicht te krijgen op het complexe systeem van onze planeet.
@@ -75,6 +79,10 @@ Een fantastisch overzicht van de discussie over het Antropoceen tot nu toe. Hier
 ## [Edwin Wenink](https://www.edwinwenink.xyz)
 
 Edwin schrijft een blog over filosofie, A.I. en zaken gerelateerd aan programmeren. Zijn hulp is cruciaal geweest in het opzetten van deze website.
+
+## [Alienocene](https://alienocene.com/)
+
+Website van filosoof Frédéric Neyrat over de relatie van mensen tot het on-menselijke. Het project omvat theoretische reflecties, muziek, poëzie en kunst. 
 
 ## [Timothy Morton](https://ecologywithoutnature.blogspot.com/)
 
