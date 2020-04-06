@@ -12,7 +12,7 @@ tags= [
 +++
 
 ![](https://github.com/Boreque/deklos/blob/master/static/images/lucht.png?raw=true "Luchtkwaliteit voor en na Corona")
-*Overzicht van de luchtvervuiling in Nederland na en vóór de coronacrisis*
+*Overzicht van de luchtvervuiling in Nederland na en vóór de coronacrisis, bron [KNMI](https://www.knmi.nl/over-het-knmi/nieuws/afname-luchtvervuiling-boven-nederland)*
 
 # Corona: drie lessen over vrijheid
 
