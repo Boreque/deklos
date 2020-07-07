@@ -14,7 +14,7 @@ categories = [
 menu = "main"
 +++
 
-![](https://github.com/Boreque/deklos/blob/master/static/images/nasa_1966_lunar_orbiter_probe.jpg?raw=true)
+![](https://github.com/Boreque/deklos/blob/master/static/images/nasa_1966_orbiter_lunar_probe.jpg?raw=true)
 
 *De aarde, bezien vanaf het oppervlak van de maan. Foto van NASA's Lunar Orbiter (1966).*
 
