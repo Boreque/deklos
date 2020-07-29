@@ -1,5 +1,5 @@
 +++
-date= 2020-07-01
+date= 2020-08-02
 menu= "main"
 title = "Vanaf grote hoogte I: de planisfeer"
 description = "Wanneer zagen wij de aarde voor het eerst op foto's?"
