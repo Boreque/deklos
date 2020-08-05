@@ -32,6 +32,7 @@ Dit door de VN gesponsorde onderzoek verdiepte zich in de gevolgen van ecosystee
 
 <br>
 
+
 ## [Santana - Waiting for the Anthropocene (2019)](https://academic.oup.com/bjps/article/70/4/1073/4935146)
 
 In dit paper argumenteert wetenschapsfilosooif *tegen* het Antropoceen. Zijn belangrijkste argumenten zijn dat het tijdperk ofwel te sterk zou overlappen met Holoceen, ofwel geen wérkelijke breuk vormt met voorgaande periodes. Het paper is interessant om een goed geïnformeerde, kritische stem over het Antropoceen te horen. 
@@ -65,6 +66,10 @@ Dit boek dient als een prima introductie tot de discussie rondom het Antropoceen
 ## [Amitav Ghosh - The Great Derangement (2016)](https://www.athenaeum.nl/boek/?authorTitle=amitav-ghosh/the-great-derangement--9780226526812/)
 
 Ghosh is normaliter een fictieschrijver. In dit boek buigt hij zich over de vraag waarom het zo moeilijk is om literatuur te schrijven over de klimaatcrisis. Ook pleit hij voor een minder eurocentrisch perspectief op het Antropoceen: in Azië zullen de belangrijkste beslissingen over de toekomst van de aarde genomen worden. Een zeer rijk werk, diep gegrond in literaire theorie, geologie en politieke wetenschap. 
+
+## [Timothy Lenton - A Very Short Introduction to Earth System Science (2016](https://www.veryshortintroductions.com/view/10.1093/actrade/9780198718871.001.0001/actrade-9780198718871)
+
+Lenton schreef een pittige, maar inzichtrijke introductie tot de aardsysteemwetenschappen. Als je interesse hebt in het volgen van de feedback loops van elementen als zuurstof en koolstof, of als je wilt weten wat mechanismen zijn van de aarde om zich in balans te houden, dan loont het om dit boekje eens op te pakken. Enige voorkennis over scheikunde helpt als je alles wilt kunnen volgen wat Lenton zegt. 
 
 ## [Colin Summerhayes - Earth's Climate Evolution (2015)](https://onlinelibrary.wiley.com/doi/book/10.1002/9781118897362)
 
