@@ -13,9 +13,12 @@ tags= [
 
 ![](https://github.com/Boreque/deklos/blob/master/static/images/explorerii1935.jpeg?raw=true "Explorer II")
 
-*De eerste foto van de curve van de aarde, genomen door de Explorer II * 
+De eerste foto van de curve van de aarde, genomen door de Explorer II 
 
 <!--more-->
+
+"What happens when the infinite blue of our aerial dreams is ruptured, replaced by a thin seam of colour, a terrifyingly fragile defence against the hungry vacuum of the Universe?"
+- Rachel Steward, [bron](https://www.simonfaithfull.org/essays/9279/)
 
 ### Vanaf grote hoogte
  
