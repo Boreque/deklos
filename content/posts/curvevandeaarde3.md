@@ -12,58 +12,99 @@ tags= [
 ]
 +++
 
-"Behold
 
-the blue planet steeped in its dream
+![](https://www.nasa.gov/sites/default/files/thumbnails/image/1b-presentation13.jpg)
 
-of reality."
+*De crew van Apollo 8 legde in 1968 de 'opkomende' aarde vast*
+<br/><br/>
 
-- James Dickey
 
 <!--more-->
 
-![](https://github.com/Boreque/deklos/blob/master/static/images/earthrise.jpg?raw=true "Explorer II")
-
-*Earthrise, 1968*
 
 ### Vanaf grote hoogte
  
-Vandaag het laatste deel van een drieluik over afbeeldingen van de aarde. In het Antropoceen verhoudt de mens zich ten opzichte van 'de hele aarde'. Hoe lang is de hele planeet al zichtbaar voor mensen?
+Vandaag het laatste deel van een drieluik over afbeeldingen van de aarde. In het Antropoceen verhoudt de mens zich ten opzichte van 'de hele aarde'. Maar hoe lang kunnen we deze al zien op foto's?
 
-[Vorige maand](./curvevandeaarde2) vertelde ik het verhaal van hoe de curve van de aarde voor het eerst op een foto zichtbaar werd. [De maand daarvoor](./curevandeaarde1) besprak ik de veranderingen die het verticale perspectief op de aarde met zich mee bracht. Vandaag kijken we naar het ontstaan van de iconische foto Earthrise, één van de eerste foto's van de hele aarde gemaakt zoals gezien door astronauten.
+[Vorige maand](https://www.de-klos.net/curvevandeaarde2) had ik het over de curve van de aarde, die in het begin van de 20e eeuw zichtbaar werd op een foto vanuit een luchtballon. [De maand daarvoor](https://de-klos.net/curevandeaarde1) liet ik zien hoe ons wereldbeeld veranderde door foto's van bovenaf. Vandaag kijken we naar het ontstaan van de iconische foto Earthrise, één van de eerste foto's van de hele aarde gemaakt zoals gezien door astronauten. 
 
-Staat deze foto compleet los van ons alledaagse perspectief? Of leren wij iets van haar? 
+Wat deed het met ons, om de aarde eindelijk als een geheel te zien? 
+
+
+![](https://github.com/Boreque/deklos/blob/master/static/images/s68-55808.jpg?raw=true "s68-55808")
+*[De eerste foto](https://spaceflight.nasa.gov/gallery/images/apollo/apollo8/html/s68-55809.html) van de hele aarde door astronauten* 
 
 ### You are looking at yourselves
 
-"We're seeing about half of it. It is going off to our 12 o'clock. Now it is going off to our 3 o'clock. That is the wrong direction..." Vanaf de aarde hielpen technici op [22 december 1968](https://historycollection.jsc.nasa.gov/JSCHistoryPortal/history/mission_trans/AS08_TEC.PDF) de astronaut Bill Anders, die op duizenden kilomters afstand in de ruimte zweefde, om de aarde door zijn camera goed in beeld te krijgen. "Stop right there. That is worse, Bill. Go back where you were ... Now it's coming back... That is extremely good on the earth if you can just hold it like that." 
+_"We're seeing about half of it. It is going off to our 12 o'clock. Now it is going off to our 3 o'clock. That is the wrong direction..."_ 
 
-De eerste beelden van de hele aarde gezien door mensenogen onstonden rommelig. De communicatie met de capcom in Houston had anderhalve seconde vertraging, waardoor het zoeken van de juiste hoek iets heeft van een echtpaar dat een lijstje probeert recht te hangen in de woonkamer. 
+Het had bijna iets komisch. Technici in Houston stuurden op 22 december 1968 de astronaut Bill Anders aan om zijn camera op de aarde te richten vanuit het ruimteschip van de Apollo 8 missie. Terwijl Anders op meer dan 280.000 kilometer van de aarde zweefde, deed hij zijn best om de instructies op te volgen die, tot grote verwarring, met meer dan een seconde vertraging binnenkwamen. 
 
-Maar dan kregen de astronauten de aarde in focus. De eerste televisiebeelden van de hele aarde werden live naar de aarde gestuurd. Daar verscheen de aarde  in zwart wit als een geheel, de wolkendeken woest om haar heen gewikkeld. "You are looking at yourselves at 180.000 miles out in space." Bill Anders wees de toeschouwers thuis droogjes op het wonder van deze reflexiviteit over grote afstand. 
+Anders bewoog de camera telkens de verkeerde kant op, waardoor de aarde uit beeld verdween. Hij kon zelf niet zien wat er in beeld was. En het is nogal moeilijk afstemmen als je instructies krijgt over wat er een seconde geleden in beeld was. De hele situatie had wat huiselijks en deed denken aan een echtpaar dat probeert om een fotolijstje recht te hangen in de woonkamer. 'Iets naar links! Niet zo ver!'
 
-![](https://github.com/Boreque/deklos/blob/master/static/images/s68-55808.jpg?raw=true "s68-55808")
-*De eerste foto van de hele aarde vanuit de ruimte door menselijke ogen* 
+NASA en de astronauten van de Apollo 8 missie wilden de aarde laten zien aan de mensen thuis. Live. Op televisie. Voor het eerst werd de gehele aarde vastgelegd door mensen die zelf in de ruimte waren. Maar Bill Anders worstelde nu nog met zijn camera. De mensen thuis zouden hooguit een randje van de aarde kunnen zien. 
+
+_"Stop right there. That is worse, Bill. Go back where you were ... Now it's coming back... That is extremely good on the earth if you can just hold it like that."_ 
+
+En dan komt de aarde in beeld... Daar verschijnt ze in zwart-wit op duizenden televisies op aarde. Nog niet als de blauwe parel die wij kennen, maar als een overbelichte vlek in de hoek van het scherm. En toch was dit al indrukwekkend genoeg.
+
+"You are looking at yourselves at 180.000 miles out in space." Bill Anders voorzag het korrelige beeld van betekenis. Hier kijkt de mens terug naar zichzelf en alles wat zij kent. Hier verschijnt de aarde, niet als 'grond' waarop we lopen, maar als een geheel waar we ons tegenover kunnen verhouden. En dan moest de meest iconische foto nog gemaakt worden...
 
 ### Earthrise
 
-Een dag later, op kerstavond 1968, zou het team van de Apollo 8 missie, bestaande uit James Lovell, Bill Anders en Frank Borman de bekende 'Earthrise' foto maken - waarbij de aarde lijkt op te komen boven het oppervlak van de maan. De foto werd na de landing van Apollo 8 ontwikkeld en had grote impact op het denken van mensen over hun thuisplaneet. 
+_"Behold_
 
-De aarde was op *Earthrise* te zien als een blauwe parel, een levende entiteit, tegen het zwarte niets van de kosmos. Earthrise laat de aarde als een bijzondere plek zien in het universum. "The loneliness out here is awe-inspiring," bekende James Lovell nog aan boord van de Apollo 8. "It makes us realize what you have back on Earth. The Earth is a grand oasis in the vastness of space."
+_the blue planet steeped in its dream_
 
-Historicus Robert Poole merkt op dat de aarde voor de astronauten eigenlijk niet als een zon boven de maan was komen rijzen. Door de baan die zij om de maan maakten, verscheen de aarde juist aan de linkerkant van de maan. De aarde was voor hen dus helemaal niet opgekomen en de foto zou eigenlijk negentig graden gedraaid moeten worden. Dat we de foto toch op deze manier kennen, stelt geschiedkundige Sebastian Grevsmühl, komt doordat de mens gehecht blijft aan een horizontale visuele traditie. Blijkbaar zoekt de mens opnieuw naar de horizon, nadat we deze kwijt geraakt is het heelal zonder boven of onder. 
+_of reality, its calculated vision shaking with the only love."_
 
-### De horizon op Earthrise
+-- [James Dickey](https://www.theguardian.com/artanddesign/2018/dec/22/behold-blue-plant-photograph-earthrise)
 
-Earthrise fascineert mij eindeloos. Dat onwerkelijke landschap van de maan, haar "grayish deep sand" (Lovell) verlicht door een zon die wij niet zien, de ietwat scheve horizon, die ons geen hulp biedt om in te schatten of de oneffenheden op het oppervlakte van de maan slechts putjes zijn of afschrikwekkende kraters. Maar wie blijft er staren naar de maan als daar de aarde hangt, in haar adembenemende levendigheid? De krullende wolken suggereren woeste krachten over de aarde gieren, terwijl op het oppervlak van de maan nog niet de zachtste wind waait. Hoe lang blijft haar grijs interessant, als daar de aarde is met het magnifieke blauw van haar oceanen? Is er iemand die deze foto kan bekijken en dan niet kan denken: dit is thuis?
+Een dag later, op kerstavond 1968, zou het team van de Apollo 8 missie, bestaande uit James Lovell, Bill Anders en Frank Borman de bekende 'Earthrise' foto maken. De aarde lijkt op te komen boven de maan. We zien het blauw van onze oceanen en dramatische kronkelingen van de witte wolken. Wat was de aarde prachtig van ver af. 
 
-En Earthrsie doet wat met de betekenis van de horizon in relatie tot de aarde. Ze vindt hier ook een nieuwe betekenis. Enerzijds is de mens op deze foto een ruimtevaarder geworden. Daarmee waren wij ook niet meer gebonden aan de aarde. We konden ieder perspectief innemen door er simpelweg heen te reizen. De blik vanaf de aarde was dan simpelweg één van de standpunten onder andere die de mens zou kunnen innemen. Zelfs de maan kon onze 'standplaats' zijn, onze technieken hadden ons eindelijk van de aarde losgemaakt. De horizon van die het maanoppervlak laat zien herinnert ons daaraan. 
+![](https://github.com/Boreque/deklos/blob/master/static/images/earthrise.jpg?raw=true "Earthrise")
+_[Earthrise](https://www.nasa.gov/sites/default/files/images/297755main_GPN-2001-000009_full.jpg), 1968_
 
-Maar anderzijds toont zich ook een nieuw soort gebondenheid van de mens aan de aarde. Juist nu wij overal kunnen gaan en staan, nu we zelfs onze eigen wereld lijken te kunnen maken, verschijnt de niet-gemaakte aarde als een grote gift, als een kwetsbaar huis waarin wij leven. De aarde is op deze foto ook niet alléén maar een horizon, niet alleen maar iets waarop de mens toevallig staat en woont, maar wordt een geheel waartegenover wij ons kunnen verhouden.
+De astronauten zouden pas na thuiskomst de foto kunnen zien, omdat deze nog ontwikkeld moest worden. Daarna had de foto een groot bereik. _Earthrise_ belandde op de voorpagina's van kranten en tijdschriften. Een exemplaar werd overhandigd aan de gouverneur van Texas. Er werd een postzegel van gemaakt. Het had de mensen op aarde geraakt om hun thuis eindelijk van een afstand te kunnen zien. 
 
-De vanzelfsprekendheid van de horizon is weg. De zintuigelijke, alledaagse wereld is in de vorige eeuw uit haar voegen getrokken. We kunnen er dus niet meer van op aan dat de horizon ons helpt om dingen in perspectief te zien. Maar wat we met die verlies van de horizon gewonnen hebben is de aarde als geheel en het besef dat wij, ook zonder horizon, van de aarde zijn. 
+*Earthrise* toonde ons een blauwe parel, een levende entiteit, tegenover de leegte van de kosmos. "The loneliness out here is awe-inspiring," bekende James Lovell nog aan boord van de Apollo 8. "It makes us realize what you have back on Earth. The Earth is a grand oasis in the vastness of space." De aarde was op deze afbeelding een speciale plek, vol van leven en kleur. Dit indrukwekkende beeld inspireert nog steeds. David Attenborough noemt de foto bijvoorbeeld in zijn nieuwe [documentaire](https://www.netflix.com/nl-en/title/80216393).
 
-Nu is het tijd om de aarde te leren kennen, niet alleen als de grond onder onze voeten, maar als het geheel waarvan wij een onderdeel zijn. 
+Voor het eerst kon de mens de aarde ook als één geheel zien. Eerder zagen we de wonderen van 'de natuur', de oerwouden, de wildernis, maar dankzij deze foto konden we inzien dat al deze gebieden deel waren van één systeem waarin alles met elkaar samenhangt. En waar ook de mensen toe behoorden. Door ons via de ruimtevaart te verwijderen van de aarde, vonden we haar terug als iets nieuws en anders. Als een verenigde planeet, als één systeem.
+
+### Verkeerd geprint
+
+Afgelopen maanden had ik het telkens over wat foto's van de aarde met de horizon deden. Op fotografie van boven was de horizon helemaal verdwenen. Op de fotografie van de Explorer II kwam ze weer terug toen we kromming van de aarde konden zien. En nu? In de ruimte is er toch geen onder en boven, dus ook geen horizon? Waarom zien we op deze foto dan toch de horizon van de maan? 
+
+Grappig genoeg is de foto eigenlijk 'verkeerd' afgedrukt. Historicus Robert Poole merkt op dat de aarde voor de astronauten helemaal niet als een zon boven de maan was komen rijzen. Door de baan die zij maakten, kwam de aarde juist links van de maan om het hoekje gluren. Eigenlijk zou de foto daarom negentig graden gedraaid moeten worden. 
+
+![](https://github.com/Boreque/deklos/blob/master/static/images/apollo8plan.jpg?raw=true "s68-55808")
+_De route van de Apollo 8 missie. Let ook op hoe de aarde vóór vertrek nog voorgesteld werd, zonder wolken en met weinig blauw._
+
+
+Dat we de foto toch op deze manier kennen, stelt geschiedkundige Sebastian Grevsmühl, komt doordat de mens gehecht blijft aan een horizontale visuele traditie, zoals we [die](https://www.de-klos.net/posts/curvevandeaarde/) in de landschapschilderskunst herkenden. Blijkbaar zoekt de mens opnieuw naar de horizon, ook als we in de ruimte zweven waar onder en boven verwisselbaar zijn geworden. 
+
+### Leven zonder horizon
+
+Deze nep-horizon van de maan heeft helemaal niets meer van de functies die de horizon had in schilderkunst. Ze helpt ons niet om dingen op schaal te zien. Het is onmogelijk te bepalen of de oneffenheden op maan slechts putjes zijn of afschrikwekkende kraters. Ook biedt het geen ruimtelijk perspectief. We hebben geen idee hoe ver de kraters van ons zijn. Honderden meters? Kilometers? Deze horizon lijkt alleen maar te dienen om alle aandacht van de kijker te sturen naar die blauwe planeet die 'opkomt' boven de grijze rotsen. 
+
+Want wie blijft er staren naar de maan als daar de aarde hangt, in haar adembenemende levendigheid? 
+
+![](https://spacecenter.org/wp-content/uploads/2018/12/apollo-8-splashdown.jpg)
+_De crew van Apollo 8 landt in [zee](https://spacecenter.org/wp-content/uploads/2018/12/apollo-8-splashdown.jpg)_
+
+De horizon op de foto van _Earthrise_ zie ik als een laatste knipoog naar aardse landschappen, naar standplaatsgebondenheid, naar de horizon van de schilderkunst. We zien hierdoor dat de horizon alleen een functie heeft zolang we gebonden waren aan een plek op aarde. 
+
+En deze zelfde aarde zien we op _Earthrise_ niet als een 'bodem' maar een 'geheel'. Zo kenden we de aarde nog niet, toen we op haar rondliepen. En nu we weten dat ons handelen invloed heeft de hele aarde, kunnen we haar nooit meer alléén maar zien als ondergrond, standplaats, bodem. Het perspectief van buitenaf vervreemdt. Maar het maakt ook mogelijk dat we leren denken in termen van het geheel. 
+
+### Conclusie
+ 
+In de vorige eeuw leerde de mens te denken over zijn positie in het universum zonder horizon. Enerzijds is dit verlies van de horizon een verwijdering van de aarde als de 'grond' onder onze voeten, als de bodem waarop wij staan en vanaf waar wij de wereld bezien. We kunnen nu namelijk overal staan en gaan. Letterlijk via de ruimtevaart. Figuurlijk via onze wetenschap, die elk punt in het universum als middenpunt kan nemen voor haar theorieën. We kunnen zelfs de maan als standplaats innemen, zoals _Earthrise_ laat zien. 
+
+Maar anderzijds treffen wij de aarde op _Earthrise_ in een nieuwe hoedanigheid. Niet als bodem, maar als een geheel waartoe wij behoren. Een complex, levendig en dynamisch systeem. Een uitzondering tussen de sterren. Ons thuis. Want laten we ook niet vergeten dat, hoewel de ruimtevaart ons naar onmetelijke verten heeft gevoerd, de aarde is waar wij geboren zijn, waar wij wonen en waar de meesten van ons zullen sterven. 
+
+"De aarde," schreef de filosoof Hans Blumbenberg ooit, blijft namelijk "[...] dat waarnaar alle ruimteschepen terugkeren." 
+
+Hoe ver zij ook gegaan zijn. 
 
 ### Bronnen
 
