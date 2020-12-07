@@ -29,16 +29,16 @@ Deze vreemde gebeurtenis en de walging die zij oproept laten iets zien over onze
 
 ### De Bodem
 
-Het is afschrikwekkend als de bodem niet vasthoudt wat wij erin stoppen. Robert MacFarlane schrijft in zijn prachtige boek *Underland* dat de mens traditioneel drie relaties heeft tot de bodem (2019, 8). De bodem moet bescherming bieden aan ons en onze kostbaarheden, opbrengsten leveren zoals mineralen, en ze moet als opslagplaats dienen voor onze geheimen en ons afval. 
+Het is afschrikwekkend als de bodem niet vasthoudt wat wij erin stoppen. Robert MacFarlane schrijft in zijn prachtige boek *Underland* dat de mens traditioneel drie relaties heeft tot de bodem (2019, 8). De bodem moet bescherming bieden aan ons en onze kostbaarheden, ook moet ze opbrengsten leveren zoals mineralen, en, tenslotte, moet ze als opslagplaats dienen voor onze geheimen en ons afval. 
 
-In het geval van de nertsen zijn deze twee laatste functies op een vreemde manier in elkaar verstrikt geraakt. De aarde brengt iets op, maar juist iets wat in haar hadden willen opbergen, wat we hadden willen vergeten. De primaire relaties tot de aarde geven ons niet altijd meer houvast. 
+In het geval van de nertsen zijn deze twee laatste functies op een vreemde manier in elkaar verstrikt geraakt. De aarde brengt iets op, maar helaas juist dat wat in haar hadden willen opbergen, wat we hadden willen vergeten. De primaire relaties tot de aarde geven ons niet altijd meer houvast. 
 
 ![](https://github.com/Boreque/deklos/blob/master/static/images/mink.png?raw=true "Zombienertsen")
 *De zombienertsen*, bron: [wp.com](https://i0.wp.com/metro.co.uk/wp-content/uploads/2020/11/PRI_173758268.jpg?quality=90&strip=all&zoom=1&resize=540%2C303&ssl=1)
 
-Eenzelfde besef lezen we in Erwin Mortiers roman *Godenslaap*, die over de Eerste Wereldoorlog vertelt. De hoofdpersoon Helena struint daar over de akkers waarop vroeger gestreden is. Ze denkt aan de gevallenen. "Seizoen na seizoen moet de ploegschaar hun resten verder verspreid hebben, de tweehonderd en nog wat schroeven en bouten en spalken waaruit het menselijk staketsel bestaat verstrooid hebben in de ondergrond." (p. 261). De doden komen terug, maar niet als zichzelf. Verstrooid, ontmenselijkt, vergeten. 
+Eenzelfde verlies aan houvast lezen we in Erwin Mortiers roman *Godenslaap*, die over de Eerste Wereldoorlog vertelt. De hoofdpersoon Helena struint over de akkers waarop vroeger gestreden is. Ze denkt aan de gevallenen. "Seizoen na seizoen moet de ploegschaar hun resten verder verspreid hebben, de tweehonderd en nog wat schroeven en bouten en spalken waaruit het menselijk staketsel bestaat verstrooid hebben in de ondergrond." (p. 261) De doden komen terug, maar niet als zichzelf. Verstrooid, ontmenselijkt, vergeten. 
 
-Helena's broer beschrijft later zijn ervaringen in de loopgraven en hoe hij daar de aarde tegenkwam. "[De aarde] die ons herleidde tot kruipende dieren, [...] ons gebeente aangreep om er haar vormloze vlees aan op te hangen, [...], als je op het gefluit van een naderende obus je kop in haar sop duwde, boerde ze in je smoel en asemde de stank uit van de onverteerde doden in haar darmen." (p. 296)
+Helena's broer beschrijft later zijn ervaringen in de loopgraven. In de modder, tussen de lijken, kwam hij de aarde tegen. "[De aarde] die ons herleidde tot kruipende dieren, [...] ons gebeente aangreep om er haar vormloze vlees aan op te hangen, [...], als je op het gefluit van een naderende obus je kop in haar sop duwde, boerde ze in je smoel en asemde de stank uit van de onverteerde doden in haar darmen." (p. 296)
 
 Hebben we de aarde dan niet verkeerd begrepen, wanneer we haar enkel benaderden als beschermvrouw, oogstveld en opbergplaats? Weten we niet al veel langer dat de aarde weigert zich te voegen naar hoe wij haar proberen te beheersen? 
 
