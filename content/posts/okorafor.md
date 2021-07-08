@@ -62,7 +62,7 @@ Okorafor schrikt er niet van weg om een apocalyps neer te zetten die vrouwen and
 Bestaande systemen van onderdrukking verdwijnen niet magisch in de toekomst van *Who Fears Death*, hoe veel magie er ook bestaat in de wereld die het afbeeldt, maar deze systemen worden juist giftiger en giftiger. 
 
 ![](https://i.guim.co.uk/img/media/f76c89afe1e7f90f8b0ed86a37b86cc9783f7b70/80_70_679_407/master/679.jpg?width=620&quality=85&auto=format&fit=max&s=90667ffdf5a1f4bfbec64af3d42bc540)
-*Okorafor werkte ook aan een * Marvel * strip. Bron: The Guardian.*
+*Okorafor werkte ook aan een Marvel comic. Bron: The Guardian.*
 
 *Who Fears Death* wordt [waarschijnlijk](https://winteriscoming.net/2021/02/18/tessa-thompson-joins-george-rr-martin-produce-who-fears-death-fantasy-hbo/) verfilmd door HBO en kan daarmee de *mainstream* verbeeldingen van de klimaatapocalyps bijsturen. Door telkens opnieuw te vertellen over wat ons te wachten staat, vanuit werkelijk andere perspectieven, kunnen we inzien hoe we het ons eigen heden vaak stiekem onze verbeeldingen van de toekomst in smokkelen. 
 
