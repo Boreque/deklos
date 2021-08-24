@@ -20,10 +20,7 @@ Klifi. Het klinkt eerder als een nieuwe, ietwat experimentele snack bij Snackcor
 
 In een wereld waarin de aarde steeds meer van zich laat horen, is klifi hip. [Adriaan van Dis](https://www.adriaanvandis.nl/boek/klifi/) noemde een roman naar het genre. [Nieuwsuur](https://nos.nl/nieuwsuur/artikel/2393920-klimaatroman-steeds-populairder-schrijvers-voelen-aankomen-wat-gebeuren-gaat) behandelde de golf aan Nederlandse klimaatromans. [Literaire theoretici](https://www.upress.virginia.edu/title/4777) schrijven boeken vol over alle verhalen over het klimaat die te vinden zijn op televisie en in de boekhandel. Schrijvers helpen ons om de klimaatcrisis te verbeelden en daarmee om te verkennen hoe wij kunnen handelen in een veranderende wereld. 
 
-![](https://upload.wikimedia.org/wikipedia/commons/9/9b/Adriaan_van_Dis_%282016%29.jpg){:height="50%" width="50%"}
-Adriaan van Dis in 2016. 
-
-<img src="https://upload.wikimedia.org/wikipedia/commons/9/9b/Adriaan_van_Dis_%282016%29.jpg" width="200"/>
+![](https://github.com/Boreque/deklos/blob/master/static/images/dis.png?raw=true)
 
 Dit is een crisis die zich nu juist zo lastig laat vangen door ons voorstellingsvermogen. Ze is overal en altijd aanwezig. Telkens weer anders. Overstromingen. Droogte. Hittegolven. Hevige sneeuwval. [De wetenschappelijke rapporten](https://www.ipcc.ch/assessment-report/ar6/) alleen helpen ons nog niet voldoende om te begrijpen welke betekenis deze uitersten hebben voor ons in ons alledaags leven.
 
