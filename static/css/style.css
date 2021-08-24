@@ -342,7 +342,7 @@ em, i {
 }
 
 .home h1 {
-font: 19px/1.3em 'Suez One', serif;    
+font: 19px/1.3em "Suez One", serif;    
 font-size: 25px;
     letter-spacing: -1px;
     color: #cccccc;
@@ -367,7 +367,7 @@ font-size: 25px;
 .post h2 {
     margin-top: 20px;
     margin-bottom: 10px;
-    font: 300 24px/1.5 'Suez One', serif;
+    font: 300 24px/1.5 "Suez One", serif;
     color: white;
 }
 
@@ -381,7 +381,7 @@ font-size: 25px;
 }
 
 .post h2.headline .tags {
-    font: normal 13px/1.5em "Suez One", serif;
+    font: normal 13px/1.5em 'Suez One', serif;
     margin: -5px 0 40px 0;
     color: #aaa;
     font-size: 13px;
