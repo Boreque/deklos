@@ -21,6 +21,7 @@ Klifi. Het klinkt eerder als een nieuwe, ietwat experimentele snack bij Snackcor
 In een wereld waarin de aarde steeds meer van zich laat horen, is klifi hip. [Adriaan van Dis](https://www.adriaanvandis.nl/boek/klifi/) noemde een roman naar het genre. [Nieuwsuur](https://nos.nl/nieuwsuur/artikel/2393920-klimaatroman-steeds-populairder-schrijvers-voelen-aankomen-wat-gebeuren-gaat) behandelde de golf aan Nederlandse klimaatromans. [Literaire theoretici](https://www.upress.virginia.edu/title/4777) schrijven boeken vol over alle verhalen over het klimaat die te vinden zijn op televisie en in de boekhandel. Schrijvers helpen ons om de klimaatcrisis te verbeelden en daarmee om te verkennen hoe wij kunnen handelen in een veranderende wereld. 
 
 ![](https://github.com/Boreque/deklos/blob/master/static/images/dis.png?raw=true)
+Adriaan van Dis, 2016. Wikimedia Commons. 
 
 Dit is een crisis die zich nu juist zo lastig laat vangen door ons voorstellingsvermogen. Ze is overal en altijd aanwezig. Telkens weer anders. Overstromingen. Droogte. Hittegolven. Hevige sneeuwval. [De wetenschappelijke rapporten](https://www.ipcc.ch/assessment-report/ar6/) alleen helpen ons nog niet voldoende om te begrijpen welke betekenis deze uitersten hebben voor ons in ons alledaags leven.
 
@@ -38,7 +39,7 @@ Het is alsof een toneelstuk van Shakespeare onderbroken wordt doordat het podium
 
 Er zijn weinig boeken vreemder dan [Jeff Vandermeers](https://www.interviewmagazine.com/culture/can-jeff-vandermeer-save-us-from-extinction) *Annihilation* uit 2014. Dit boek is ook verfilmd door [NetFlix](https://www.imdb.com/title/tt2798920/), waarbij helaas de vertelling wint van het onvertelbare dat Vandermeer laat zien in het boek, dat wil zeggen, waarbij het plezier van plot de frustratie van de boekversie verdrongen heeft. Toch beveel ik het aan dit frustrerende kleine boekje te lezen. In *Annihilation* laat Vandermeer namelijk zien wat voor verschrikking het is wanneer het landschap reageert op de mens: een ervaring die wij in het Westen vergeten waren, tot de grote overstromingen van deze zomer. 
 
-![](https://upload.wikimedia.org/wikipedia/en/e/e5/Annihilation_by_jeff_vandermeer.jpg)
+![](https://github.com/Boreque/deklos/blob/master/static/images/annihilation.jpg?raw=true)
 
 Een biologe meldt zich vrijwillig aan voor een expeditie naar wat *Area X* heet, een mysterieus gebied dat al door elf eerdere missies bezocht is, maar waarvan nooit iemand in ongeschonden staat teruggekeerd is. Het gebied is onbewoond door mensen, maar barst van de vreemde wezens. Reusachtige alligators. Enorme zwijnen. De expeditie van de biologe stuit op een spiraalvormige tunnel, welke zij steevast een 'toren' blijft noemen. Bij afdaling blijkt op de muren van de toren een lange zin gevormd te zijn door planten, die de biologe blijft intrigeren:
 
@@ -61,7 +62,7 @@ In Robbie Arnott's [*The Rain Heron*](https://www.youtube.com/results?search_que
 
 Margaret Atwood, schrijfster van *The Handmaid's Tale*, voltooide al in 2003 een klimaatroman. Haar fenomenale [*Oryx and Crake*](https://en.wikipedia.org/wiki/Oryx_and_Crake) is een vingeroefening in vreemdheid. De hoofdpersoon Snowman lijkt de laatst levende mens te zijn in een vernietigde wereld, te midden van gemuteerde varkens, bloeddorstige (maar schattige) puppy's en volledig geweldloze genetisch aangepaste mensachtigen die een onzichtbaar wezen genaamd 'Crake' vereren. Gewikkeld in een deken en met een zonnebril op zijn neus (waarvan één glas mist), trekt Snowman door de dystopische omgeving op zoek naar restjes voedsel of drank. Meestal drank. 
 
-![](http://readlit.com/en/wp-content/uploads/2016/10/oryx-crake4-690x1024.jpg)
+![](https://github.com/Boreque/deklos/blob/master/static/images/atwood.png?raw=true)
 
 Atwood's wereld verbindt genetisch gemodificeerde varkens en kweekkippen (zonder hoofden) met een coming-of-age verhaal van Snowman en zijn beste vriend, van wie je kunt houden ondanks dat ze in hun vrije tijd het liefste blowen en live executies kijken. Doordat je langzaam leert dat Snowman komt waar hij nu is dankzij het roekeloze handelen van zijn vriend, begrijp je de gevaren van de Vreemdheid die wij mensen vandaag de dag al kunnen maken - die we al maken. De onherkenbare wereld waarin Snowman leeft bevat brokstukken die al te herkenbaar zijn, zoals genetische experimenten en de commodificatie van het leven. 
 
