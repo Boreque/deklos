@@ -132,7 +132,7 @@ html, body {
 }date
 
 body {
-    font: 16px/1 "Suez One", serif;
+    font: 16px/1 "Helvetica Neue", Helvetica, Arial, sans-serif;
     color: #666;
     -webkit-font-smoothing: antialiased;
     text-rendering: optimizeLegibility;
@@ -140,14 +140,14 @@ body {
 }
 
 h1 {
-    font-size: 30px "Suez One", serif;
+    font-size: 30px Georgia, serif;
     letter-spacing: -1px;
     color: white;
     font-weight: bold;
 }
 
 h2 {
-    font: italic 19px/1.3em "Suez One", serif;
+    font: italic 19px/1.3em Georgia, serif;
     color: white;
 }
 
@@ -183,7 +183,7 @@ h2 {
     font-weight: 300;
     color: #aaa;
     margin-top: 10px;
-    font-family: "Suez One", serif;
+    font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
     font-style: normal;
 }
 
@@ -337,7 +337,7 @@ em, i {
 
 .description {
     float: right;
-    font: italic 14px/1.4em "Suez One", serif;
+    font: italic 14px/1.4em Georgia, serif;
     color: #aaa;
 }
 
@@ -381,7 +381,7 @@ font-size: 25px;
 }
 
 .post h2.headline .tags {
-    font: normal 13px/1.5em "Suez One", serif;
+    font: normal 13px/1.5em "Helvetica Neue", Helvetica, Arial, sans-serif;
     margin: -5px 0 40px 0;
     color: #aaa;
     font-size: 13px;
@@ -708,7 +708,7 @@ h2.month {
 
 #archief-list a {
     display: block;
-    font: bold 17px/1.7 "Suez One", serif;
+    font: bold 17px/1.7 "Helvetica Neue", helvetica, Arial, sans-serif;
     color: #aaa;
 }
 
@@ -716,7 +716,7 @@ h2.month {
     float: right;
     position: relative;
     top: 1px;
-    font: 300 17px/1.7 "Suez One", serif;
+    font: 300 17px/1.7 "Helvetica Neue", helvetica, Arial, sans-serif;
     color: #bbb;
 }
 
@@ -746,7 +746,7 @@ h2.month {
 }
 
 #post-list.archief.readmore a {
-    font: 400 16px/1.6 "Suez One", serif;
+    font: 400 16px/1.6 "Helvetica Neue", helvetica, Arial, sans-serif;
     color: #5694f1;
 }
 
