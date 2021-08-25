@@ -12,20 +12,22 @@ tags= [
 
 ### Nnedi Okorafor 
 
-Hoe wordt het klimaatvraagstuk afgebeeld in verhalen met een sterke niet-Westerse inspiratie? [Nnedi Okorafor](https://en.wikipedia.org/wiki/Nnedi_Okorafor) is een Nigeriaans-Amerikaanse schrijver, die in haar boek [*Who Fears Death*](http://fantasyhotlist.blogspot.com/2010/08/excerpt-from-nnedi-okorafors-who-fears.html) een verhaal vertelt over een verscheurd Sudan in een [post-apocalyptische](https://www.de-klos.net/posts/paniek/) toekomst. 
+Hoe wordt het klimaatvraagstuk afgebeeld in verhalen met een sterke niet-Westerse inspiratie? [Nnedi Okorafor](https://en.wikipedia.org/wiki/Nnedi_Okorafor) is een Nigeriaans-Amerikaanse schrijver, die in haar boek [*Who Fears Death*](http://fantasyhotlist.blogspot.com/2010/08/excerpt-from-nnedi-okorafors-who-fears.html) vertelt over een verscheurd Sudan in een [post-apocalyptische](https://www.de-klos.net/posts/paniek/) toekomst. 
 
-De witte Nuru onderdrukken de zwarte Okeke bevolking, die ze grotendeels tot slaven gemaakt hebben en steeds verder de hoek in duwen. Het verhaal krijgt een 'climate fiction' (cli-fi) randje doordat de woestijn in deze wereld zich uitstrekt zo ver de herinneringen van karakters reiken. Beelden van het groen van loof van planten en bomen zijn vervaagd. Klimaat, etnisch geweld en onderdrukking komen samen in deze dystopische roman. 
+Het verhaal krijgt een 'climate fiction' (cli-fi) randje doordat de woestijn in deze wereld zich uitstrekt zo ver de herinneringen van karakters reiken. Het groene loof van bomen is een vage herinnering. Klimaatverandering, etnisch geweld en onderdrukking vormen een giftige cocktail in Okorafors universum. 
+
+De witte Nuru onderdrukken de zwarte Okeke bevolking, welke ze grotendeels tot slaven gemaakt hebben. Moeizaam houden de Okeke zich staande in een kleiner en kleiner leefgebied. 
 
 ![](https://upload.wikimedia.org/wikipedia/commons/thumb/f/f7/Nnedi_Okorafor_with_insects.jpg/640px-Nnedi_Okorafor_with_insects.jpg)
 *Nnedi Okorafor, Wikimedia Commons*
 
-Het verhaal volgt Onyesonwu, een *Ewu* meisje dat geboren is uit de verkrachting van haar Okeke moeder door een Nuru man. Door haar afwijkende, lichte huidskleur is ze een paria in haar gemeenschap en zelfs de onderdrukte Okeke walgen van haar of vrezen haar nadat ze er achter komen dat ze over magische krachten bezit. Onyensonwu kan in dieren en mensen terughalen uit de dood. 
+Het verhaal volgt Onyesonwu, een *Ewu* meisje dat geboren is uit de verkrachting van haar Okeke moeder door een Nuru man. Haar afwijkende, lichte huidskleur maakt haar tot een paria en zelfs de onderdrukte Okeke vrezen haar nadat ze er achter komen dat ze magische krachten bezit. Onyensonwu kan in dieren veranderen en zelfs mensen terughalen uit de dood. 
 
-Het grootste gedeelte van het verhaal is een 'epische queeste' van Onyesonwu door de woestijnen van Sudan om wraak te nemen op haar vader, de verkrachter. Dat ze daarbij ook nog eens een profetie tot vervulling te brengen die het land kan redden is mooi meegenomen.
+We volgen haar 'epische queeste' door de woestijnen van Sudan om wraak te nemen op haar vader, de verkrachter. Tijdens haar tocht brengt ze ook nog eens een geheimzinnige profetie tot vervulling, welke verlossing belooft voor de Okeke.
 
-Hoewel Nnedi Okorafor in Amerika is geboren en [opgegroeid](https://mosaicmagazine.org/nnedi-okorafor-interview/), is het verhaal dat ze vertelt doorspekt met verwijzingen naar de [Igbocultuur](https://www.igboguide.org/) waartoe haar ouders en zijbehoren. In Okorafor's universum toveren mensen met [*juju*](https://www.merriam-webster.com/dictionary/juju). Er zijn verwijzingen naar Amos Tutuola's [*The Palm-Wine Drinkard*](https://www.goodreads.com/book/show/944103.The_Palm_Wine_Drinkard) en het boek bevat een controversiële scène van een [vrouwenbesnijdenis](https://www.goodreads.com/author_blog_posts/1090064-a-review-of-who-fears-death-by-acclaimed-author-steven-barnes). 
+Hoewel Nnedi Okorafor in Amerika is geboren en [opgegroeid](https://mosaicmagazine.org/nnedi-okorafor-interview/), is het verhaal dat ze vertelt doorspekt met verwijzingen naar de [Igbocultuur](https://www.igboguide.org/) waartoe haar ouders en zijbehoren. In Okorafor's universum toveren mensen met [*juju*](https://www.merriam-webster.com/dictionary/juju). Er zijn verwijzingen naar Amos Tutuola's [*The Palm-Wine Drinkard*](https://www.goodreads.com/book/show/944103.The_Palm_Wine_Drinkard) en het boek bevat een controversiële scène van een [vrouwenbesnijdenis](https://www.goodreads.com/author_blog_posts/1090064-a-review-of-who-fears-death-by-acclaimed-author-steven-barnes). Okorafor stelde dat deze scène bedoeld was als een impliciete kritiek op de Igbo, waar vrouwenbesnijdenis nog een bestaand gebruik is. 
 
-Okorafor stelde dat dit een impliciete kritiek is op de Igbo, waar dit nog een bestaand gebruik is. Door deze mengelmoes van Nigeriaanse en Amerikaanse cultuur gezien, verschijnt klimaatverandering volledig anders. Wat zijn opvallende verschillen met Westerse klimaatverhalen?
+Door deze mengelmoes van Nigeriaanse en Amerikaanse cultuur gezien, verschijnt klimaatverandering volledig anders. Wat zijn opvallende verschillen met Westerse klimaatverhalen?
 
 ![](https://citas.in/media/authors/none_0Gum3B4.jpeg)
 *Nnedi Okorafor, Citas.In.*
