@@ -167,8 +167,8 @@ h2 {
 
 .profile #avatar {
     display: inline-block;
-    width: 200px;
-    height: 200px;
+    width: 50px;
+    height: 50px;
     border-radius: 50%;
     margin-bottom: 20px;
 }
@@ -253,8 +253,8 @@ nav.main-nav a.cta {
 
 .home #avatar {
     float: right;
-    width: 50px;
-    height: 50px;
+    width: 30px;
+    height: 30px;
     border-radius: 50%;
 }
 
@@ -311,7 +311,7 @@ ul>li {
     color: #eee;
     text-align: left;
     font: 17px/1 "IM Fell Great Primer", serif;
-    line-height: 150%;    
+    line-height: 200%;    
 }
 
 #post-body p > a {
@@ -353,7 +353,7 @@ font-size: 25px;
 
 .home h2 {
     font: italic 19px/1.3em;
-	font-family: "IM Fell Great Primer", Times, serif;
+	font-family: "Suez One", serif; 
     color: white;
 }
 
@@ -378,7 +378,8 @@ font-size: 25px;
 }
 
 .post h2.headline {
-    font: normal 13px/1.5em 'Suez One', serif;
+    font: normal 13px/1.5em;
+    font-family:"Suez One", serif; 
     margin: -5px 0 0 0;
     color: #aab;
     font-size: 13px;
@@ -408,6 +409,7 @@ h3, h4, h5 {
 }
 
 h3 {
+    font-family: "Suez One", serif; 
     font-size: 20px;
     font-weight: 400;
     color: white;
