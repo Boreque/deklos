@@ -116,7 +116,7 @@ html, body {
 }
 
 body {
-    font: 16px/1 "Helvetica Neue", Helvetica, Arial, sans-serif;
+    font: 16px/1 "Suez One", serif;
     color: #666;
     -webkit-font-smoothing: antialiased;
     text-rendering: optimizeLegibility;
@@ -130,7 +130,7 @@ h1 {
 }
 
 h2 {
-    font: italic 19px/1.3em Georgia, serif;
+    font: italic 19px/1.3em "Suez One", serif;
     color: #bbb;
 }
 
@@ -166,7 +166,7 @@ h2 {
     font-weight: 300;
     color: #aaa;
     margin-top: 10px;
-    font-family: 'Helvetica Neue', Helvetica, Arial, sans-serif;
+    font-family: "Suez One", serif;
     font-style: normal;
 }
 
@@ -311,7 +311,7 @@ em, i {
 
 .description {
     float: right;
-    font: italic 14px/1.4em Georgia, serif;
+    font: italic 14px/1.4em "Suez One", serif;
     color: #aaa;
 }
 
@@ -335,18 +335,18 @@ em, i {
     margin-top: 40px;
     margin-bottom: 20px;
     color: #222;
-    font: 300 32px/1.4em "Helvetica Neue", Helvetica, Arial, sans-serif;
+    font: 300 32px/1.4em 'Suez One', serif;
 }
 
 .post h2 {
     margin-top: 20px;
     margin-bottom: 10px;
-    font: 300 24px/1.5 "Helvetica Neue", Helvetica, Arial, sans-serif;
+    font: 300 24px/1.5 "Suez One", serif;
     color: #111;
 }
 
 .post h2.headline {
-    font: normal 13px/1.5em "Helvetica Neue", Helvetica, Arial, sans-serif;
+    font: normal 13px/1.5em "Suez One", serif;
     margin: -5px 0 0 0;
     color: #b2b9be;
     font-size: 13px;
@@ -500,14 +500,14 @@ Post List
 #post-list a {
     color: #333;
     display: block;
-    font: bold 19px/1.7 "Helvetica Neue", helvetica, Arial, sans-serif;
+    font: bold 19px/1.7 "IM Fell Great Primer", serif;
 }
 
 #post-list .dates {
     float: right;
     position: relative;
     top: 1px;
-    font: 300 17px/1.8 "Helvetica Neue", helvetica, Arial, sans-serif;
+    font: 300 17px/1.8 "IM Fell Great Primer", serif;
     color: #bbb;
 }
 
@@ -659,7 +659,7 @@ h1.archive {
 
 h2.month {
     width: 100%;
-    font: bold 13px/1 "Helvetica Neue", helvetica, Arial, sans-serif;
+    font: bold 13px/1 "IM Fell Great Primer", serif;
     text-transform: uppercase;
     margin-top: 40px;
     margin-bottom: 10px;
@@ -673,7 +673,7 @@ h2.month {
 
 #archive-list a {
     display: block;
-    font: bold 17px/1.7 "Helvetica Neue", helvetica, Arial, sans-serif;
+    font: bold 17px/1.7 "IM Fell Great Primer", serif;
     color: #333;
 }
 
@@ -681,7 +681,7 @@ h2.month {
     float: right;
     position: relative;
     top: 1px;
-    font: 300 17px/1.7 "Helvetica Neue", helvetica, Arial, sans-serif;
+    font: 300 17px/1.7 "IM Fell Great Primer", serif;
     color: #bbb;
 }
 
