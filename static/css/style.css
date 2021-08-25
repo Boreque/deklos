@@ -360,7 +360,7 @@ font-size: 25px;
 .post h1 {    
     margin-top: 40px;
     margin-bottom: 20px;
-    font: 300 32px/1.4em 'Suez One', serif;
+    font: 300 32px/1.4em "Suez One", serif;
     color: white;
 }
 
@@ -741,7 +741,7 @@ h2.month {
     margin-bottom: 0px;
 }
 #post-list.archief.readmore h3 {
-    font: 400 20px "Helvetica Neue", Helvetica, Arial, sans-serif;
+    font: 400 20px 'IM Fell Great Primer', serif;
     margin-bottom: 30px;
 }
 
@@ -755,7 +755,7 @@ h2.month {
 }
 
 #post-list.archief.readmore .dates {
-    font: 300 16px/1.6 "Helvetica Neue", helvetica, Arial, sans-serif;
+    font: 300 16px/1.6 'IM Fell Great Primer', serif;
 }
 
 #disqus_thread, #ds-thread {
