@@ -308,7 +308,7 @@ ul>li {
 /* Line Height */
 
 #post-body, p {   
-    color: #aaa;
+    color: #eee;
     text-align: left;
     font: 17px/1 "IM Fell Great Primer", serif;
     line-height: 150%;    
@@ -339,8 +339,8 @@ em, i {
 
 .description {
     float: right;
-    font: italic 14px/1.4em "Suez One", serif;
-    color: #aaa;
+    font: italic 14px/1.4em	"IM Fell Great Primer", serif;
+    color: #eee;
 }
 
 .home h1 {
@@ -353,7 +353,7 @@ font-size: 25px;
 
 .home h2 {
     font: italic 19px/1.3em;
-	font-family: "Suez One", Times, serif;
+	font-family: "IM Fell Great Primer", Times, serif;
     color: white;
 }
 
