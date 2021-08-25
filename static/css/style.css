@@ -361,6 +361,8 @@ font-size: 25px;
     text-align: center;
 }
 
+/* Als ik het goed zie, kan ik hieronder de post variabelen aanpassen */
+
 .post h1 {    
     margin-top: 40px;
     margin-bottom: 20px;
@@ -554,6 +556,7 @@ Post List
 }
 
 #post-list-footer {
+    font: 12px "IM Great Fell Primer", serif;
     border-top: 1px solid #eee;
     margin-top: 20px;
     padding-top: 100px;
@@ -694,7 +697,7 @@ Post List
 }
 
 
-/* Archief */
+/* Archief variabelen: NIET de post-list op home page */
 
 h1.archief {
     margin-bottom: 0px;
