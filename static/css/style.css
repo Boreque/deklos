@@ -29,7 +29,7 @@ text-align: center;
 
 body {
     line-height: 1
-    font-family: 'Muli', sans-serif;
+    font-family: "IM Fell Great Primer", serif;
 }
 
 blockquote, q {
@@ -132,7 +132,8 @@ html, body {
 }date
 
 body {
-    font: 16px/1 "Suez One", serif;
+    font-size: 16px/1; 
+	font-family: "IM Fell Great Primer", Times, serif;
     color: #666;
     -webkit-font-smoothing: antialiased;
     text-rendering: optimizeLegibility;
@@ -140,14 +141,15 @@ body {
 }
 
 h1 {
-    font-size: 30px "Suez One", serif;
+    font-size: 30px; 
+	font-family: "Suez One", Times, serif;
     letter-spacing: -1px;
     color: white;
     font-weight: bold;
 }
 
 h2 {
-    font: italic 19px/1.3em "Suez One", serif;
+    font-size: 20px;
     color: white;
 }
 
@@ -308,7 +310,7 @@ ul>li {
 #post-body, p {   
     color: #aaa;
     text-align: left;
-    font: 17px/1 'Muli', sans-serif;
+    font: 17px/1 "IM Fell Great Primer", serif;
     line-height: 150%;    
 }
 
@@ -342,14 +344,16 @@ em, i {
 }
 
 .home h1 {
-font: 19px/1.3em "Suez One", serif;    
+font: 19px/1.3em;
+font-family: "Suez One", serif;    
 font-size: 25px;
     letter-spacing: -1px;
     color: #cccccc;
 }
 
 .home h2 {
-    font: italic 19px/1.3em 'Suez One', serif;
+    font: italic 19px/1.3em;
+	font-family: "Suez One", Times, serif;
     color: white;
 }
 
@@ -360,14 +364,16 @@ font-size: 25px;
 .post h1 {    
     margin-top: 40px;
     margin-bottom: 20px;
-    font: 300 32px/1.4em "Suez One", serif;
+    font: 300 32px/1.4em;
+	font-family: "Suez One", serif;
     color: white;
 }
 
 .post h2 {
     margin-top: 20px;
     margin-bottom: 10px;
-    font: 300 24px/1.5 "Suez One", serif;
+    font-size: 300 24px/1.5;
+   	font-family: "Suez One", serif;
     color: white;
 }
 
