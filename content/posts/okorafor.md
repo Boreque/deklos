@@ -20,6 +20,8 @@ De witte Nuru onderdrukken de zwarte Okeke bevolking, welke ze grotendeels tot s
 
 ![](https://upload.wikimedia.org/wikipedia/commons/thumb/f/f7/Nnedi_Okorafor_with_insects.jpg/640px-Nnedi_Okorafor_with_insects.jpg)
 
+<p style="text-align: center;">Centered text</p> 
+
 ##### Nnedi Okorafor, Wikimedia Commons
 
 Het verhaal volgt Onyesonwu, een *Ewu* meisje dat geboren is uit de verkrachting van haar Okeke moeder door een Nuru man. Haar afwijkende, lichte huidskleur maakt haar tot een paria en zelfs de onderdrukte Okeke vrezen haar nadat ze er achter komen dat ze magische krachten bezit. Onyensonwu kan in dieren veranderen en zelfs mensen terughalen uit de dood. 
