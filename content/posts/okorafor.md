@@ -55,7 +55,7 @@ Westerse cli-fi projecteert een wereld waarin 'wij', de 'mensheid', plotseling t
 
 Hoewel ik het werk om al deze redenen waardeer, is *Who Fears Death* ook een moeizaam boek, vol van ongeloofwaardige dialogen, waarin de *young adult* achtergrond van Okorafor nog doorklinkt. Hierdoor giet zij een Harry Potter-achtig sausje over de klimaatapocalyps. 
 
-*"Things have been happening to me, yes," I said. "And I think I'm in danger. Something tried to kill me once, a year or so ago. This great oval red eye. It continues to watch me, I think. I need to protect myself. *Oga* Aro, I will become the best and greatest student you will ever have! I know it. I can feel it. I can ... almost touch it." (p. 65)*
+> "Things have been happening to me, yes," I said. "And I think I'm in danger. Something tried to kill me once, a year or so ago. This great oval red eye. It continues to watch me, I think. I need to protect myself. *Oga* Aro, I will become the best and greatest student you will ever have! I know it. I can feel it. I can ... almost touch it." (p. 65)
 
 In zo verre als het 'show, don't tell' principe iets waard is, treedt Okorafor dit uitgangspunt met beide voeten. Doordat de motivaties van de karakters letterlijk uitgespeld worden, krijgen deze niet veel meer diepte dan een kartonnen plaat. De waarde van deze roman ligt mijn inziens vooral in haar andere verbeelding van klimaatverandering voorbij de Westerse literaire traditie. 
 

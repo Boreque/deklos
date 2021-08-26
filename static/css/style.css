@@ -266,7 +266,7 @@ nav.main-nav a.cta {
 
 a, #title, #post-list a:hover, #title:hover {
     text-decoration: none;
-    color: white;
+    color: DarkSeaGreen;
 }
 
 p a {
@@ -274,7 +274,7 @@ p a {
 }
 
 #post-link a{
-    color: gray;
+    color: white;
 }
 
 
