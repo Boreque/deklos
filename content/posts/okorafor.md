@@ -22,21 +22,25 @@ De witte Nuru onderdrukken de zwarte Okeke bevolking, welke ze grotendeels tot s
 
 <p style="text-align: center;"> Nnedi Okorafor, Wikimedia Commons </p> 
 
-Het verhaal volgt Onyesonwu, een *Ewu* meisje dat geboren is uit de verkrachting van haar Okeke moeder door een Nuru man. Geboren uit beide volken heeft ze een afwijkende, lichte huidskleur die haar tot een paria maakt. Zelfs de onderdrukte Okeke vrezen Onye, nadat ze ontdekken dat zij magische krachten bezit. Onyensonwu verandert in dieren en brengt mensen terug uit de dood. Ze is hierdoor machtig, maar de prijs die ze betaald is sociale exclusie. In navolging van een geheimzinnige profetie, vertrekt Onye op een 'epische queeste' door de woestijnen van Sudan om wraak te nemen op haar vader. Samen met haar minnaar en drie kwebbelende vriendinnen.
+Het verhaal volgt Onyesonwu, een *Ewu* meisje dat geboren is uit de verkrachting van haar Okeke moeder door een Nuru man. Geboren uit beide volken heeft ze een afwijkende, lichte huidskleur die haar tot een paria maakt. Zelfs de onderdrukte Okeke vrezen Onye, nadat ze ontdekken dat zij magische krachten bezit. 
+
+Onyensonwu verandert in dieren en brengt mensen terug uit de dood. Ze is hierdoor machtig, maar de prijs die ze betaalt is sociale exclusie. In navolging van een geheimzinnige profetie, vertrekt Onye op een 'epische queeste' door de woestijnen van Sudan om wraak te nemen op haar vader. Samen met haar minnaar en drie kwebbelende vriendinnen.
 
 Okorafor vermengt Nigeriaanse en Amerikaanse cultuur, wat tot een volledig anders beeld van klimaatverandering leidt. Wat zijn opvallende verschillen met Westerse klimaatverhalen?
 
 # Okorafor
 
-Hoewel Nnedi Okorafor in Amerika is geboren en [opgegroeid](https://mosaicmagazine.org/nnedi-okorafor-interview/), is het verhaal dat ze vertelt doorspekt met verwijzingen naar de [Igbocultuur](https://www.igboguide.org/) waartoe haar ouders en zij behoren. In Okorafor's universum toveren mensen met [*juju*](https://www.merriam-webster.com/dictionary/juju). Er zijn verwijzingen naar Amos Tutuola's [*The Palm-Wine Drinkard*](https://www.goodreads.com/book/show/944103.The_Palm_Wine_Drinkard), een Nigeriaanse classic, en het boek bevat een controversiële scène van een [vrouwenbesnijdenis](https://www.goodreads.com/author_blog_posts/1090064-a-review-of-who-fears-death-by-acclaimed-author-steven-barnes). Okorafor stelde dat deze scène bedoeld was als een impliciete kritiek op de Igbo, waar vrouwenbesnijdenis nog een bestaand gebruik is. 
+Hoewel Nnedi Okorafor in Amerika is geboren en [opgegroeid](https://mosaicmagazine.org/nnedi-okorafor-interview/), is het verhaal dat ze vertelt doorspekt met verwijzingen naar de [Igbocultuur](https://www.igboguide.org/) waartoe haar ouders en zij behoren. In Okorafor's universum toveren mensen met [*juju*](https://www.merriam-webster.com/dictionary/juju). 
+
+Er zijn verwijzingen naar Amos Tutuola's [*The Palm-Wine Drinkard*](https://www.goodreads.com/book/show/944103.The_Palm_Wine_Drinkard), een Nigeriaanse classic, en het boek bevat een controversiële scène van een [vrouwenbesnijdenis](https://www.goodreads.com/author_blog_posts/1090064-a-review-of-who-fears-death-by-acclaimed-author-steven-barnes). Okorafor stelde dat deze scène bedoeld was als een impliciete kritiek op de Igbo, waar vrouwenbesnijdenis nog een bestaand gebruik is. 
 
 ![](https://citas.in/media/authors/none_0Gum3B4.jpeg)
 
 <p style="text-align: center;">Nnedi Okorafor</p>
 
-Via haar dubbele culturele bril, verwerpt Okorafor de clichés van klimaatficties zoals [*The Day After Tomorrow*](https://www.youtube.com/watch?v=LFo67gEQVU4) en [*The Road*](https://www.youtube.com/watch?v=94KcI0gLq1A). Dankzij deze bekende Westerse cli-fi verhalen denken we bij de toekomst van klimaatverandering meestal aan een brandende aarde, verlaten steden, overspoelde kustgebieden. En ook aan een klein en dapper groepje overlevenden dat te midden van het puin moet zien te te overleven. Uiteindelijk is het niet zelden een verdwaalde (witte) wetenschapper die een oplossing vindt voor de klimaatproblemen.
+Via haar dubbele culturele bril, verwerpt Okorafor de clichés van klimaatficties zoals [*The Day After Tomorrow*](https://www.youtube.com/watch?v=LFo67gEQVU4) en [*The Road*](https://www.youtube.com/watch?v=94KcI0gLq1A). Dankzij deze bekende Westerse cli-fi verhalen denken we bij de toekomst van klimaatverandering meestal aan een brandende aarde, verlaten steden, overspoelde kustgebieden. En ook aan een klein en dapper groepje overlevenden dat te midden van het puin moet zien te te overleven. Uiteindelijk is het niet zelden een verdwaalde (witte) wetenschapper die een oplossing vindt voor de klimaatproblemen die het normale leven onmogelijk gemaakt hebben.
 
-In dit alles laat Westerse cli-fi vooral zien hoe het klimaat onze samenleving *onderbreekt* en hoe alles anders wordt. Okorafor heeft meer oog voor wat ook *hetzelfde* zal blijven. 
+Westerse cli-fi vooral zien hoe het klimaat onze samenleving *onderbreekt* en hoe alles anders wordt. Okorafor heeft meer oog voor wat ook *hetzelfde* zal blijven. 
 
 Er vindt in Okorafor's wereld bijvoorbeeld nog stééds onderdrukking van de ene groep door de andere plaats, wat niets nieuws in de nasleep van het kolonialisme in Afrika. Onyesonwu wordt vanwege haar huidskleur beschimpt in alle dorpen die ze op haar reis aandoet. Daarnaast vluchten alle Okeke voor etnisch gemotiveerd geweld dat in een genocide dreigt uit te monden. 
 
