@@ -437,7 +437,6 @@ h6 {
 }
 
 p.small {
-    color: white;
     font-size: 14px;
     line-height: 1.5;
     display: block;
@@ -446,7 +445,8 @@ p.small {
 }
 
 blockquote {
-    padding-left: 15px;
+    color: LightSeaGreen;
+	padding-left: 15px;
     border-left: 3px solid #eee;
 }
 
@@ -869,7 +869,7 @@ h2.month {
 }
 
 .archief .post-link {
-    color: gray;
+    color: LightSeaGreen;
 }
 
 .archief .post-item:hover {
