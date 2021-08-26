@@ -3,7 +3,7 @@ title = "Film en het Antropoceen III: Light of my Life (2019) en Zombieland: Dou
 description = "FILMS over het einde"
 tags = [
     "Film",
-    "antropoceen",
+    "Antropoceen",
     "Politiek",
 ]
 date = 2020-01-05
@@ -28,10 +28,6 @@ wereld verbeelden. Hoewel deze films vaak niet direct (alleen) over
 klimaatverandering gaan, tonen ze wat voor angsten en hoop
 wij hebben over de toekomst die komt. 
 
-Wat ik in deze post wil bespreken is dat de manier waarop de toekomst wordt afgebeeld altijd ook een
-politieke boodschap over het heden bevat: dit is relevant wanneer wij
-nadenken over hoe wij moeten reageren op de tijd van het Antropoceen. 
-
 Ik analyseer twee films, die verschillende manieren laten zien van naar
 de toekomst kijken. [*Light of my Life*](https://www.imdb.com/title/tt6063090/) (2019) is een film van
 [Casey Affleck](https://www.imdb.com/name/nm0000729/?ref_=fn_al_nm_1) waarin de Staat vrijwel volledig verdwenen is en
@@ -40,6 +36,10 @@ geweldsmonopolie van de Staat om de orde tussen mensen te bewaken. Hiertegenover
 de film [*Zombieland: Double Tap*](2019) van [Ruben Fleischer](https://www.imdb.com/name/nm0281508/?ref_=nv_sr_srsg_0), die
 het wegvallen van de Staatsorde juist als een verademing
 afbeeldt. De Staat dient zich niet te bemoeien met haar burgers. 
+
+Wat ik in deze post wil bespreken is dat de manier waarop de toekomst wordt afgebeeld altijd ook een
+politieke boodschap over het heden bevat: dit is relevant wanneer wij
+nadenken over hoe wij moeten reageren op de tijd van het Antropoceen. 
 
 # Light of my Life
 
