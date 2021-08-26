@@ -266,8 +266,7 @@ nav.main-nav a.cta {
 
 a, #title, #post-list a:hover, #title:hover {
     text-decoration: none;
-    color: #5badf0;
-    color: white;
+    color: blue;
 }
 
 p a {
@@ -275,7 +274,7 @@ p a {
 }
 
 #post-link a{
-    color: #aaa;
+    color: blue;
 }
 
 
@@ -310,7 +309,7 @@ ul>li {
 #post-body, p {   
     color: #eee;
     text-align: left;
-    font: 20px/1 "IM Fell Great Primer", serif;
+    font: 17px/1 "IM Fell Great Primer", serif;
     line-height: 200%;    
 }
 
@@ -374,7 +373,7 @@ font-size: 25px;
 .post h2 {
     margin-top: 20px;
     margin-bottom: 10px;
-    font-size: 300 26px/1.5;
+    font-size: 300 24px/1.5;
    	font-family: "Suez One", serif;
     color: white;
 }
@@ -412,7 +411,7 @@ h3, h4, h5 {
 
 h3 {
     font-family: "Suez One", serif; 
-    font-size: 22px;
+    font-size: 20px;
     font-weight: 400;
     color: white;
     margin-top: 50px;
@@ -502,8 +501,8 @@ thead th, th {
 
 img {
     width: 100%;
-    max-width: 100%;
-    border-radius: 3px;
+    max-height: 500px;
+	border-radius: 3px;
 }
 
 
@@ -757,7 +756,7 @@ h2.month {
 }
 
 #post-list.archief.readmore a {
-    font: 400 16px/1.6 "IM Fell Great Primer", serif;
+    font: 400 16px/1.6 "Suez One", serif;
     color: #5694f1;
 }
 
@@ -766,7 +765,7 @@ h2.month {
 }
 
 #post-list.archief.readmore .dates {
-    font: 300 16px/1.6 "IM Fell Great Primer", serif;
+    font: 300 16px/1.6 'IM Fell Great Primer', serif;
 }
 
 #disqus_thread, #ds-thread {

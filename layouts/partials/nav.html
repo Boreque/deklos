@@ -6,7 +6,7 @@
 	<a href='{{ .Site.BaseURL }}posts'>{{ with .Site.Params.archive }}{{ . }}{{ else }}Archief{{ end }}</a>
 	<a href='{{ .Site.BaseURL }}tags'>{{ with .Site.Params.tags }}{{ . }}{{ else }}Onderwerpen{{ end }}</a>
 	<a href='{{ .Site.BaseURL }}about'>{{ with .Site.Params.about }}{{ . }}{{ else }}Over{{ end }}</a>
-    <a href='{{ .Site.BaseURL }}links'>{{ with .Site.Params.links }}{{ . }}{{ else }}Links{{ end }}</a>
+	<!-- <a href='{{ .Site.BaseURL }}links'>{{ with .Site.Params.links }}{{ . }}{{ else }}Links{{ end }}</a> -->
 
 	{{ range $key, $val := .Site.Params.Links }}
 		<a href="{{ $val }}">{{ $key }}</a>
