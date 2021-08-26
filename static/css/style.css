@@ -314,6 +314,7 @@ ul>li {
 }
 
 #post-body p > a {
+  color: LightSeaGreen;
   word-break: break-word;
   white-space: pre-wrap;
 }
