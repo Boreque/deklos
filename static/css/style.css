@@ -500,11 +500,12 @@ thead th, th {
 }
 
 img {
-    width: 100%;
-    max-height: 500px;
-	border-radius: 3px;
+  display: block;
+  max-width: 100%;
+  max-height: 500px;
+  width: auto;
+  height: auto;
 }
-
 
 /* Made with Cactus Badge */
 
@@ -866,7 +867,7 @@ h2.month {
 }
 
 .archief .post-link {
-    color: #aaa;
+    color: blue;
 }
 
 .archief .post-item:hover {
