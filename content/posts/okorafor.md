@@ -10,11 +10,11 @@ tags= [
 ]
 +++
 
-### Nnedi Okorafor 
+# Nnedi Okorafor 
 
 Hoe wordt het klimaatvraagstuk afgebeeld in verhalen met een sterke niet-Westerse inspiratie? [Nnedi Okorafor](https://en.wikipedia.org/wiki/Nnedi_Okorafor) is een Nigeriaans-Amerikaanse schrijver, die in haar boek [*Who Fears Death*](http://fantasyhotlist.blogspot.com/2010/08/excerpt-from-nnedi-okorafors-who-fears.html) vertelt over een verscheurd Sudan in een [post-apocalyptische](https://www.de-klos.net/posts/paniek/) toekomst. 
 
-Het verhaal krijgt een 'climate fiction' (cli-fi) randje doordat de woestijn in deze wereld zich uitstrekt zo ver de herinneringen van karakters reiken. Het groene loof van bomen is een vage herinnering. Klimaatverandering, etnisch geweld en onderdrukking vormen een giftige cocktail in Okorafors universum. 
+Het verhaal krijgt een 'climate fiction' (cli-fi) randje doordat de woestijn zich in deze wereld uitstrekt zo ver de herinneringen van karakters reiken. Het groene loof van bomen is een vage herinnering. Klimaatverandering, etnisch geweld en onderdrukking vormen een giftige cocktail in Okorafors universum. 
 
 De witte Nuru onderdrukken de zwarte Okeke bevolking, welke ze grotendeels tot slaven gemaakt hebben. Moeizaam houden de Okeke zich staande in een kleiner en kleiner leefgebied. 
 
@@ -24,17 +24,17 @@ De witte Nuru onderdrukken de zwarte Okeke bevolking, welke ze grotendeels tot s
 
 Het verhaal volgt Onyesonwu, een *Ewu* meisje dat geboren is uit de verkrachting van haar Okeke moeder door een Nuru man. Haar afwijkende, lichte huidskleur maakt haar tot een paria en zelfs de onderdrukte Okeke vrezen haar nadat ze er achter komen dat ze magische krachten bezit. Onyensonwu kan in dieren veranderen en zelfs mensen terughalen uit de dood. 
 
-We volgen haar 'epische queeste' door de woestijnen van Sudan om wraak te nemen op haar vader, de verkrachter. Tijdens haar tocht brengt ze ook nog eens een geheimzinnige profetie tot vervulling, welke verlossing belooft voor de Okeke.
-
-Hoewel Nnedi Okorafor in Amerika is geboren en [opgegroeid](https://mosaicmagazine.org/nnedi-okorafor-interview/), is het verhaal dat ze vertelt doorspekt met verwijzingen naar de [Igbocultuur](https://www.igboguide.org/) waartoe haar ouders en zijbehoren. In Okorafor's universum toveren mensen met [*juju*](https://www.merriam-webster.com/dictionary/juju). Er zijn verwijzingen naar Amos Tutuola's [*The Palm-Wine Drinkard*](https://www.goodreads.com/book/show/944103.The_Palm_Wine_Drinkard) en het boek bevat een controversiële scène van een [vrouwenbesnijdenis](https://www.goodreads.com/author_blog_posts/1090064-a-review-of-who-fears-death-by-acclaimed-author-steven-barnes). Okorafor stelde dat deze scène bedoeld was als een impliciete kritiek op de Igbo, waar vrouwenbesnijdenis nog een bestaand gebruik is. 
+We volgen Onye's 'epische queeste' door de woestijnen van Sudan om wraak te nemen op haar vader, de verkrachter. Tijdens haar tocht brengt ze ook nog eens een geheimzinnige profetie tot vervulling, welke verlossing belooft voor de Okeke.
 
 Door deze mengelmoes van Nigeriaanse en Amerikaanse cultuur gezien, verschijnt klimaatverandering volledig anders. Wat zijn opvallende verschillen met Westerse klimaatverhalen?
+
+# Okorafor
+
+Hoewel Nnedi Okorafor in Amerika is geboren en [opgegroeid](https://mosaicmagazine.org/nnedi-okorafor-interview/), is het verhaal dat ze vertelt doorspekt met verwijzingen naar de [Igbocultuur](https://www.igboguide.org/) waartoe haar ouders en zijbehoren. In Okorafor's universum toveren mensen met [*juju*](https://www.merriam-webster.com/dictionary/juju). Er zijn verwijzingen naar Amos Tutuola's [*The Palm-Wine Drinkard*](https://www.goodreads.com/book/show/944103.The_Palm_Wine_Drinkard) en het boek bevat een controversiële scène van een [vrouwenbesnijdenis](https://www.goodreads.com/author_blog_posts/1090064-a-review-of-who-fears-death-by-acclaimed-author-steven-barnes). Okorafor stelde dat deze scène bedoeld was als een impliciete kritiek op de Igbo, waar vrouwenbesnijdenis nog een bestaand gebruik is. 
 
 ![](https://citas.in/media/authors/none_0Gum3B4.jpeg)
 
 ##### Nnedi Okorafor, Citas.In.
-
-### Okorafor versus Westerse cli-fi
 
 Okorafor verwerpt de clichés van klimaatficties zoals [*The Day After Tomorrow*](https://www.youtube.com/watch?v=LFo67gEQVU4) en [*The Road*](https://www.youtube.com/watch?v=94KcI0gLq1A). Dankzij zulke verhalen denken we bij de toekomst van klimaatverandering meestal aan een brandende aarde, verlaten steden, overspoelde kustgebieden. Aan een klein en dapper groepje overlevenden dat te midden van het puin moet zien te te overleven. 
 
@@ -54,9 +54,9 @@ Okorafor benadrukt door al deze verschillen met Westerse klimaatficite dat besta
 
 Westerse cli-fi projecteert een wereld waarin 'wij', de 'mensheid', plotseling tot een mensonterende situatie zijn vervallen. Okorafors fictie herinnert ons er eerder aan dat deze situaties *nu* al bestaan, dat mensen in achtergestelde gebieden al een constante klimaatapocalyps [doorleven](https://www.vrt.be/vrtnws/nl/2021/04/30/hongersnood-madagaskar/). 
 
-### Andere verbeeldingen
+# Andere verbeeldingen
 
-Hoewel ik het werk om al deze redenen waardeer, is *Who Fears Death* ook een moeizaam boek, vol van ongeloofwaardige dialogen, waarin de *young adult* achtergrond van Okorafor nog doorklinkt. Hierdoor giet zij een Harry Potter-achtig sausje over de klimaatapocalyps. 
+Hoewel ik het werk om al deze redenen waardeer, is *Who Fears Death* ook een moeizaam boek, vol van ongeloofwaardige dialogen, waarin de *young adult* achtergrond van Okorafor nog doorklinkt. Zij een Harry Potter-achtig sausje over de klimaatapocalyps, waardoor deze gespekt raakt met ongeloofwaardige en puberale dialogen. 
 
 > "Things have been happening to me, yes," I said. "And I think I'm in danger. Something tried to kill me once, a year or so ago. This great oval red eye. It continues to watch me, I think. I need to protect myself. *Oga* Aro, I will become the best and greatest student you will ever have! I know it. I can feel it. I can ... almost touch it." (p. 65)
 
