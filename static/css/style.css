@@ -711,7 +711,7 @@ h1.archief {
 
 h2.month {
     width: 100%;
-    font: bold 13px/1 'Suez One', serif;
+    font: bold 13px/1 "Suez One", serif;
     text-transform: uppercase;
     margin-top: 40px;
     margin-bottom: 10px;
@@ -768,11 +768,12 @@ h2.month {
 }
 
 #post-list.archief.readmore a:hover {
-    opacity: 0.8;
+    opacity: 1;
 }
 
 #post-list.archief.readmore .dates {
     font: 300 16px/1.6 'IM Fell Great Primer', serif;
+	color: LightSkyBlue;
 }
 
 #disqus_thread, #ds-thread {
