@@ -271,7 +271,7 @@ a, #title{
     color: white;
 }
 
-#post-list a:hover, #title:hover{
+#post-list a:hover, #title a:hover{
 		color:LightSkyBlue
 }
 
