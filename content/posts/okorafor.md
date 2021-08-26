@@ -10,7 +10,7 @@ tags= [
 ]
 +++
 
-# Nnedi Okorafor 
+# Who Fears Death? 
 
 Hoe wordt het klimaatvraagstuk afgebeeld in verhalen met een sterke niet-Westerse inspiratie? [Nnedi Okorafor](https://en.wikipedia.org/wiki/Nnedi_Okorafor) is een Nigeriaans-Amerikaanse schrijver, die in haar boek [*Who Fears Death*](http://fantasyhotlist.blogspot.com/2010/08/excerpt-from-nnedi-okorafors-who-fears.html) vertelt over een verscheurd Sudan in een [post-apocalyptische](https://www.de-klos.net/posts/paniek/) toekomst. 
 
