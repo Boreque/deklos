@@ -502,7 +502,7 @@ thead th, th {
 img {
   display: block;
   max-width: 100%;
-  max-height: 800px;
+  max-height: 500px;
   width: auto;
   height: auto;
   margin-left: auto;
