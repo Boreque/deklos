@@ -132,7 +132,7 @@ html, body {
 }date
 
 body {
-    font-size: 16px/1; 
+    font-size: 20px/1; 
 	font-family: "IM Fell Great Primer", Times, serif;
     color: #666;
     -webkit-font-smoothing: antialiased;
@@ -149,7 +149,8 @@ h1 {
 }
 
 h2 {
-    font-size: 20px;
+    font-family: "IM Fell Great Primer", Times, serif;
+	font-size: 20px;
     color: white;
 	font-weight: normal;
 }
@@ -310,13 +311,13 @@ ul>li {
 #post-body, p {   
     color: #eee;
     text-align: left;
-    font: 17px/1 "IM Fell Great Primer", serif;
+    font: 20px/1 "IM Fell Great Primer", serif;
     line-height: 200%;    
 }
 
 /* Links in posts (geloof ik) */
 #post-body p > a {
-  color: LightSteelBlue;
+  color: LightSkyBlue;
   word-break: break-word;
   white-space: pre-wrap;
 }
@@ -448,7 +449,7 @@ p.small {
 }
 
 blockquote {
-    color: LightSteelBlue;
+    color: LightSkyBlue;
 	padding-left: 15px;
     border-left: 3px solid #eee;
 }
@@ -505,7 +506,7 @@ thead th, th {
 img {
   display: block;
   max-width: 100%;
-  max-height: 500px;
+  max-height: 550px;
   width: auto;
   height: auto;
   margin-left: auto;
@@ -880,7 +881,7 @@ h2.month {
     transition: 0.3s ease-out;
 }
 .archief .post-item:hover .post-link {
-    color: LightSteelBlue;
+    color: white;
 }
 
 .fa.fa-heart:hover {
