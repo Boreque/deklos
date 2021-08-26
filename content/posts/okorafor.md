@@ -54,11 +54,11 @@ Westerse cli-fi projecteert een wereld waarin 'wij', de 'mensheid', plotseling t
 
 # Andere verbeeldingen
 
-Hoewel ik het werk om al deze redenen waardeer, is *Who Fears Death* ook een moeizaam boek, vol van ongeloofwaardige dialogen, waarin de *young adult* achtergrond van Okorafor nog doorklinkt. Zij een Harry Potter-achtig sausje over de klimaatapocalyps, waardoor deze doorspekt raakt met puberale dramatiek. 
+Hoewel ik het werk om al deze redenen waardeer, is *Who Fears Death* ook een moeizaam boek, vol van ongeloofwaardige dialogen, waarin de *young adult* achtergrond van Okorafor nog doorklinkt. Ze giet een Harry Potter-achtig sausje over de klimaatapocalyps, waardoor deze doordrenkt raakt met puberale dramatiek. 
 
 > "Things have been happening to me, yes," I said. "And I think I'm in danger. Something tried to kill me once, a year or so ago. This great oval red eye. It continues to watch me, I think. I need to protect myself. *Oga* Aro, I will become the best and greatest student you will ever have! I know it. I can feel it. I can ... almost touch it." (p. 65)
 
-In zo verre als het 'show, don't tell' principe iets waard is, treedt Okorafor dit uitgangspunt met beide voeten. De motivaties van de karakters spelt ze letterlijk uit. Zij hebben de diepgang van een kartonnen plaat. 
+In zo verre als het 'show, don't tell' principe iets waard is, treedt Okorafor dit uitgangspunt met beide voeten. Letterlijk spelt ze de motivaties van de karakters uit, die daardoor de diepgang krijgen van een kartonnen plaat. 
 
 De waarde van deze roman ligt mijn inziens vooral in haar andere verbeelding van klimaatverandering voorbij de Westerse literaire traditie. Okorafor schrikt er niet van weg om een apocalyps neer te zetten die niet universeel is. Vrouwen lijden anders dan mannen. Witte mensen anders dan zwarte. 
 

@@ -877,11 +877,11 @@ h2.month {
 }
 
 .archief .post-item:hover {
-    color: #fff;
+    color: LightSkyBlue;
     transition: 0.3s ease-out;
 }
 .archief .post-item:hover .post-link {
-    color: white;
+    color: LightSkyBlue;
 }
 
 .fa.fa-heart:hover {
