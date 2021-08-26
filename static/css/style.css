@@ -306,12 +306,11 @@ ul>li {
 }
 
 
-/* Line Height */
-
+/* Line Height en Post Size Text*/
 #post-body, p {   
     color: #eee;
     text-align: left;
-    font: 20px/1 "IM Fell Great Primer", serif;
+    font: 18px/1 "IM Fell Great Primer", serif;
     line-height: 200%;    
 }
 
@@ -356,7 +355,7 @@ font-size: 25px;
 
 .home h2 {
     font: italic 19px/1.3em;
-	font-family: "Suez One", serif; 
+	font-family: "IM Fell Great Primer", serif; 
     color: white;
 }
 
@@ -422,14 +421,15 @@ h3 {
 }
 
 h4 {
-    font-size: 16px;
-    font-weight: bold;
+    font-size: 18px;
+    font-weight:bold;
     color: white;
 }
 
 h5 {
-    font-size: 15px;
-    font-weight: bold;
+    text-align: center;
+	font-size: 15px;
+    font-weight: normal;
     color: white;
 }
 

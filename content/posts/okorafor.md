@@ -19,7 +19,8 @@ Het verhaal krijgt een 'climate fiction' (cli-fi) randje doordat de woestijn in 
 De witte Nuru onderdrukken de zwarte Okeke bevolking, welke ze grotendeels tot slaven gemaakt hebben. Moeizaam houden de Okeke zich staande in een kleiner en kleiner leefgebied. 
 
 ![](https://upload.wikimedia.org/wikipedia/commons/thumb/f/f7/Nnedi_Okorafor_with_insects.jpg/640px-Nnedi_Okorafor_with_insects.jpg)
-*Nnedi Okorafor, Wikimedia Commons*
+
+##### Nnedi Okorafor, Wikimedia Commons
 
 Het verhaal volgt Onyesonwu, een *Ewu* meisje dat geboren is uit de verkrachting van haar Okeke moeder door een Nuru man. Haar afwijkende, lichte huidskleur maakt haar tot een paria en zelfs de onderdrukte Okeke vrezen haar nadat ze er achter komen dat ze magische krachten bezit. Onyensonwu kan in dieren veranderen en zelfs mensen terughalen uit de dood. 
 
@@ -30,7 +31,8 @@ Hoewel Nnedi Okorafor in Amerika is geboren en [opgegroeid](https://mosaicmagazi
 Door deze mengelmoes van Nigeriaanse en Amerikaanse cultuur gezien, verschijnt klimaatverandering volledig anders. Wat zijn opvallende verschillen met Westerse klimaatverhalen?
 
 ![](https://citas.in/media/authors/none_0Gum3B4.jpeg)
-*Nnedi Okorafor, Citas.In.*
+
+##### Nnedi Okorafor, Citas.In.
 
 ### Okorafor versus Westerse cli-fi
 
@@ -41,7 +43,8 @@ Westerse cli-fi laat vooral zien hoe het klimaat onze samenleving *onderbreekt* 
 Er vindt in Okorafor's wereld bijvoorbeeld nog stééds onderdrukking van de ene groep door de andere plaats, wat niets nieuws in de nasleep van het kolonialisme in Afrika. Onyesonwu wordt vanwege haar huidskleur beschimpt in alle dorpen die ze op haar reis tegenkomt. De Okeke vluchten voor etnisch gemotiveerd geweld die in een genocide dreigt uit te monden. 
 
 ![](http://2.bp.blogspot.com/-cFFV78u2FGc/U9UPJ9lW2iI/AAAAAAAAC0g/NIAjf48TGlA/s1600/who+fears+death.jpg)
-*Cover van Who Fears Death*
+
+##### Cover van Who Fears Death
 
 Het is ook interessant dat klimaatverandering geen expliciet thema is voor karakters in de roman. Een opwarmende aarde verschroeide het Sudan van *Who Fears Death*, maar de wetenschap en technologieën die het klimaat hadden kunnen beschrijven zijn vergaan. 
 
@@ -64,7 +67,8 @@ Okorafor schrikt er niet van weg om een apocalyps neer te zetten die vrouwen and
 Bestaande systemen van onderdrukking verdwijnen niet magisch in de toekomst van *Who Fears Death*, hoe veel magie er ook bestaat in de wereld die het afbeeldt, maar deze systemen worden juist giftiger en giftiger. 
 
 ![](https://i.guim.co.uk/img/media/f76c89afe1e7f90f8b0ed86a37b86cc9783f7b70/80_70_679_407/master/679.jpg?width=620&quality=85&auto=format&fit=max&s=90667ffdf5a1f4bfbec64af3d42bc540)
-*Okorafor werkte ook aan een Marvel comic. Bron: The Guardian.*
+
+##### Okorafor werkte ook aan een Marvel comic. Bron: The Guardian.
 
 *Who Fears Death* wordt [waarschijnlijk](https://winteriscoming.net/2021/02/18/tessa-thompson-joins-george-rr-martin-produce-who-fears-death-fantasy-hbo/) verfilmd door HBO en kan daarmee de *mainstream* verbeeldingen van de klimaatapocalyps bijsturen. Door telkens opnieuw te vertellen over wat ons te wachten staat, vanuit werkelijk andere perspectieven, kunnen we inzien hoe we het ons eigen heden vaak stiekem onze verbeeldingen van de toekomst in smokkelen. 
 
