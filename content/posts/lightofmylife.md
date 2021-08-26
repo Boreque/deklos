@@ -50,9 +50,9 @@ afbeeldt. De Staat dient zich niet te bemoeien met haar burgers.
 
 In *Light of my Life* dwaalt het jonge meisje Rag ([Anna Pniowsky](https://www.imdb.com/name/nm6370548/?ref_=tt_cl_t1)) met haar vader (Casey Affleck)
 door een onveilige wereld waarin vrijwel alle vrouwen gestorven zijn tijdens een mysterieuze epidemie. Rag loopt daarmee groot gevaar in de handen
-te vallen van gevaarlijke mannen, wat haar vader probeert te voorkomen door Rag te verkleden als jongetje.
+te vallen van gevaarlijke mannen, wat haar vader probeert te voorkomen door haar te vermommen als jongetje.
 
-Rags geheim raakt echter keer op keer bekend; vader en dochter slaan op een vlucht zonder einde door de bevroren landschappen van een winterse wildernis en langs de randen van wat er nog over is van de beschaving.
+Rags geheim raakt echter keer op keer bekend; vader en dochter slaan op een vlucht zonder einde door de bevroren landschappen van een winterse wildernis en langs de randen van wat er nog over is van de beschaving. Vernielde bibliotheken. Verlaten boerderijen. 
 
 De constante dreiging van geweld tegen de kwetsbare Rag maakt van *Light
 of my Life* een tragisch verhaal. De vlucht zal nooit kunnen ophouden. Alle mensen zijn verdacht, ieder teken van leven is een risico voor de twee. Zonder politie, zonder bescherming van de Staat is de mens de mens een wolf. 
@@ -78,18 +78,15 @@ Een totaal ander beeld komen we tegen in de film *Zombieland: Double Tap*,
 het vervolg op het eerste deel van tien jaar geleden. *Double Tap* is in wezen een pleidooi *tegen* de Staat: mensen zijn pas écht vrij
 zonder de bemoeienis van begrenzende instituten. 
 
-Vier helden zoeken naar manieren om te leven in een wereld die overspoeld is met brein-hongerige zombies. Maar het zijn niet de zombies zijn die voor het verhaal van de film zorgen. *Zombieland: Double Tap* gaat vooral over volwassenwording als het vinden van een balans tussen autonomie en trouw aan je vrienden.
+Vier helden zoeken naar manieren om te leven in een wereld die overspoeld is met brein-hongerige zombies. Maar dan over zombies, gaat *Zombieland: Double Tap* over volwassenwording als het vinden van een balans tussen autonomie en trouw aan je vrienden.
 
 *Wichita* ([Emma Stone](https://www.imdb.com/name/nm1297015/?ref_=tt_cl_t3)) en *Little
-Rock* ([Abigail Breslin](https://www.imdb.com/name/nm1113550/?ref_=tt_cl_t4)) laten hun mannelijke lotgenoten in de steek, om te bewijzen dat ze op eigen benen kunnen staan. *Colombus* ([Jesse Eisenberg](https://www.imdb.com/name/nm0251986/?ref_=nv_sr_srsg_0)) en
-*Tallahassee* ([Woody Harrelson](https://www.imdb.com/name/nm0000437/?ref_=tt_cl_t1)), hun vrienden, gaan hen halsoverkop achterna. 
+Rock* ([Abigail Breslin](https://www.imdb.com/name/nm1113550/?ref_=tt_cl_t4)) laten hun mannelijke lotgenoten in de steek, om te bewijzen dat ze op eigen benen kunnen staan. De mannen, *Colombus* ([Jesse Eisenberg](https://www.imdb.com/name/nm0251986/?ref_=nv_sr_srsg_0)) en
+*Tallahassee* ([Woody Harrelson](https://www.imdb.com/name/nm0000437/?ref_=tt_cl_t1)), gaan hen halsoverkop achterna in de patriachale vooronderstelling dat hun vriendinnen niet veilig zijn zonder hun bescherming. Onderweg komen Colombus en Tallahassee voor de vraag te staan of zij zich willen voegen naar de veiligheid die een gemeenschap of familie biedt. Leeft de mens het beste in een samenleving of alleen? 
 
-Onderweg naar de voortvluchtige vrouwen komen de twee ook voor de vraag te staan of zij ongebonden willen blijven leven, of zich willen voegen naar de veiligheid die een gemeenschap of familie biedt. Is de mens het beste in een samenleving of in zijn eentje? 
+*Zombieland* weet in ieder geval guitig een lans te breken voor de autonomie. Op een dwaze roadtrip door de ruïnes van een samenleving houden de helden met niets of niemand rekening. Ze plunderen verlaten supermarkten en houden huis tijdens een wilde nacht in het op Elvis geïnspireerde *Heartbreak Hotel*. Inclusief slow-motion beelden van ontploffende monster trucks. 
 
-*Zombieland* weet in ieder geval het alleen-zijn guitig te verbeelden. Op een dwaze roadtrip door de ruïnes van een samenleving, houden de helden met niets of niemand rekening. Ze plunderen verlaten supermarkten en houden huis tijdens een wilde nacht in het op Elvis geïnspireerde *Heartbreak Hotel*. 
-
-Opvallend is dat *Zombieland* de toekomst zonder Staat overwegend 
-positief neerzet. Niet voor niets begint de film met een scène waarin de
+Opvallend is dat *Zombieland* de toekomst zonder Staat daarmee overwegend positief neerzet. Niet voor niets begint de film met een scène waarin de
 helden hun intrek nemen in het Witte Huis: de rijkdom van de elite ligt zonder Staat eindelijk ook voor het oprapen voor de gewone mens. Ongelijkheid is een mythe geworden. 
 
 *Zombieland* keert zich tegen het beeld van de mens van de eerder genoemde *Hobbes*. Waar Hobbes stelde dat het voor samenleven nodig is dat mensen hun natuurrecht op geweld afstaan aan de soeverein, viert *Zombieland* een wereld waarin iedereen zijn eigen mannetje staat. De natuurtoestand is geweldig. 

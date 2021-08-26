@@ -266,9 +266,13 @@ nav.main-nav a.cta {
 
 /*Accent color*/
 
-a, #title, #post-list a:hover, #title:hover {
+a, #title, #title:hover {
     text-decoration: none;
     color: white;
+}
+
+#post-list a:hover{
+		color:LightSkyBlue
 }
 
 p a {
