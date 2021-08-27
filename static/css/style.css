@@ -217,7 +217,7 @@ nav.main-nav a.cta {
 }
 @media (max-width: 700px) {
   nav.main-nav {
-      padding: 20px 10px 0 0;
+      padding: 10px 10px 0 0;
       background: #fff;
       background: rgba(0, 0, 0, .90);
       margin: 0 auto;
@@ -226,8 +226,8 @@ nav.main-nav a.cta {
   }
   nav.main-nav a {
       top: 8px;
-      right: 6px;
-      padding: 8px 8px;
+      right: 4px;
+      padding: 6px 6px;
       background-color: black;
       font-size: 13px;
       line-height: 1.35;
@@ -809,8 +809,8 @@ h2.month {
     #wrapper {
         padding: 20px 20px 20px 20px;
     }
-    #header {
-        margin-bottom: 60px;
+    #header { 
+			margin-bottom: 60px;
     }
     .post {
         margin: 0px 0;
