@@ -221,7 +221,7 @@ nav.main-nav a.cta {
       background: #fff;
       background: rgba(0, 0, 0, .90);
       margin: 0 auto;
-      text-align: right;
+      text-align: center;
       z-index: 100;
   }
   nav.main-nav a {
