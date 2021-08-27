@@ -14,14 +14,19 @@ tags= [
 
 Hoe wordt het klimaatvraagstuk afgebeeld in verhalen met een sterke niet-Westerse inspiratie? <!--more--> [Nnedi Okorafor](https://en.wikipedia.org/wiki/Nnedi_Okorafor) is een Nigeriaans-Amerikaanse schrijver, die in haar boek [*Who Fears Death*](http://fantasyhotlist.blogspot.com/2010/08/excerpt-from-nnedi-okorafors-who-fears.html) vertelt over een verscheurd Sudan in een [post-apocalyptische](https://www.de-klos.net/posts/paniek/) toekomst. 
 
-Hoewel Nnedi Okorafor in Amerika is geboren en [opgegroeid](https://mosaicmagazine.org/nnedi-okorafor-interview/), is het verhaal dat ze vertelt doorspekt met verwijzingen naar de [Igbocultuur](https://www.igboguide.org/) waartoe haar ouders en zij behoren. In Okorafor's universum toveren mensen met [*juju*](https://www.merriam-webster.com/dictionary/juju). Er zijn verwijzingen naar Amos Tutuola's [*The Palm-Wine Drinkard*](https://www.goodreads.com/book/show/944103.The_Palm_Wine_Drinkard), een Nigeriaanse classic, en het boek bevat een controversiële scène van een [vrouwenbesnijdenis](https://www.goodreads.com/author_blog_posts/1090064-a-review-of-who-fears-death-by-acclaimed-author-steven-barnes). Okorafor stelde dat deze scène bedoeld was als een impliciete kritiek op de Igbo, waar vrouwenbesnijdenis nog een bestaand gebruik is. 
+Hoewel Nnedi Okorafor in Amerika is geboren en [opgegroeid](https://mosaicmagazine.org/nnedi-okorafor-interview/), is het verhaal dat ze vertelt doorspekt met verwijzingen naar de [Igbocultuur](https://www.igboguide.org/) waartoe haar ouders en zij behoren. 
+
+In Okorafor's universum toveren mensen met [*juju*](https://www.merriam-webster.com/dictionary/juju). Er zijn verwijzingen naar Amos Tutuola's [*The Palm-Wine Drinkard*](https://www.goodreads.com/book/show/944103.The_Palm_Wine_Drinkard). 
+
+Het boek bevat zelfs een controversiële [vrouwenbesnijdenis](https://www.goodreads.com/author_blog_posts/1090064-a-review-of-who-fears-death-by-acclaimed-author-steven-barnes), waarvan Okorafor stelde dat deze scène bedoeld was als een impliciete kritiek op de Igbo, waar vrouwenbesnijdenis nog een bestaand gebruik is. 
 
 ![](https://citas.in/media/authors/none_0Gum3B4.jpeg)
 
 <p style="text-align: center;">Nnedi Okorafor</p>
 
+In kritische dialoog met haar dubbele achtergrond vermengt Okorafor in dit verhaal dus Nigeriaanse en Amerikaanse cultuur, wat leidt tot een uniek beeld van klimaatverandering. 
 
-Okorafor vermengt in dit verhaal dus Nigeriaanse en Amerikaanse cultuur, wat tot een uniek beeld van klimaatverandering leidt. Wat zijn opvallende verschillen met Westerse klimaatverhalen?
+Wat zijn opvallende verschillen met Westerse klimaatverhalen?
 
 # Plot
 
@@ -33,7 +38,9 @@ In dit toekomstige Sudan onderdrukken de witte Nuru-groep met geweld de zwarte O
 
 <p style="text-align: center;"> Nnedi Okorafor, Wikimedia Commons </p> 
 
-Het verhaal volgt Onyesonwu, een *Ewu* meisje dat geboren is uit de verkrachting van haar Okeke moeder door een Nuru man. Geboren uit beide volken heeft ze een afwijkende, lichte huidskleur,die haar tot een paria maakt. Zelfs de onderdrukte Okeke vrezen Onye, nadat ze ontdekken dat zij magische krachten bezit. Onye verandert in dieren en brengt mensen terug uit de dood, maar voor haar macht betaalt ze prijs van sociale exclusie. 
+Het verhaal volgt Onyesonwu, een *Ewu* meisje dat geboren is uit de verkrachting van haar Okeke moeder door een Nuru man. Geboren uit beide volken heeft ze een afwijkende, lichte huidskleur,die haar tot een paria maakt. 
+
+Zelfs de onderdrukte Okeke vrezen Onye, nadat ze ontdekken dat zij magische krachten bezit. Onye verandert zichzelf in dieren en ze brengt mensen terug uit de dood, maar voor haar macht betaalt ze prijs van sociale exclusie. 
 
 In navolging van een geheimzinnige profetie, vertrekt Onye op een epische queeste door de woestijnen van Sudan om wraak te nemen op haar vader. Samen met haar minnaar en drie kwebbelende vriendinnen.
 
@@ -43,33 +50,42 @@ Via haar dubbele culturele bril, verwerpt Okorafor de clichés van klimaatfictie
 
 Dankzij bekende Westerse cli-fi verhalen denken we bij de toekomst van klimaatverandering meestal aan een brandende aarde, verlaten steden, overspoelde kustgebieden. 
 
-Westerse cli-fi vooral op de eerste plaats dus vaak zien hoe het klimaat onze samenleving *onderbreekt* en deze onderbreking wordt als een choquerende gebeurtenis afgebeeld. 
+![](https://parentesistoriche.altervista.org/wp-content/uploads/2018/04/theroad1.jpg)
+<p style="text-align: center;">Still uit de film The Road, [bron](https://parentesistoriche.altervista.org/wp-content/uploads/2018/04/theroad1.jpg)</p>
 
-Daarnaast gaan cli-fi verhalen vaak over een klein en dapper groepje overlevenden dat te midden van het puin van de burgerlijke samenleving moet zien te te overleven. Uiteindelijk is het een eenzame (witte) wetenschapper die een oplossing vindt voor de klimaatproblemen, via technologische slimmigheden (World War Z).
+Westerse cli-fi toont op de eerste plaats dus hoe het klimaat onze samenleving *onderbreekt* en deze onderbreking wordt als een traumatische gebeurtenis afgebeeld. 
 
-Kortom, voor Westerse cli-fi is het probleem nog kenbaar vanuit een overzichtspositie. De vertelling laat dan zien hoe tijdelijk gemarginaliseerde subjecten hun weg weer terugvinden naar technologisch meesterschap over hun situatie. 
+Daarnaast gaan cli-fi verhalen vaak over een klein en dapper groepje overlevenden dat te midden van het puin van de burgerlijke samenleving moet zien te te overleven. Uiteindelijk is het een eenzame (witte) wetenschapper die een oplossing vindt voor de klimaatproblemen, dankzij technologische slimmigheden (World War Z).
+
+Kortom, voor Westerse cli-fi is het probleem nog kenbaar vanuit een overzichtspositie. De vertelling laat dan zien hoe tijdelijk gemarginaliseerde subjecten hun weg weer terugvinden naar technologisch meesterschap over hun situatie vanuit een hersteld centrum. 
+
+Op deze manieren onderschrijven cli-fi verhalen de heersende orde als wenselijk, zelfs als een klimaatramp een interruptie van deze orde vormt. 
 
 # Okorafors innovaties 
 
-In Okorafors universum heeft er juist géén radicale breuk plaatsgevonden door klimaatverandering. Er vindt nog stééds onderdrukking plaats van de ene groep door de andere, wat niets nieuws in de nasleep van het kolonialisme in Afrika. 
+In Okorafors universum is er juist géén radicale breuk dankzij klimaatverandering. De klimaatcrisis is geen nieuw begin. 
 
-Okorafor laat dus zien dat een klimaatramp geen 'nieuwe start' is, maar dat processen als racisme voort blijven woekeren. Onyesonwu wordt vanwege haar huidskleur beschimpt in alle dorpen die ze op haar reis aandoet. Haar mede-Okeke vluchten voor etnisch gemotiveerd geweld dat in een genocide dreigt uit te monden. 
+Er vindt nog stééds onderdrukking plaats van de ene groep door de andere, wat niets nieuws in de nasleep van het kolonialisme in Afrika. 
+
+Ook is er nog steeds racisme. Onyesonwu wordt vanwege haar huidskleur beschimpt in alle dorpen die ze op haar reis aandoet. Haar mede-Okeke vluchten voor etnisch gemotiveerd geweld onder de dreiging van genocide. 
 
 ![](http://2.bp.blogspot.com/-cFFV78u2FGc/U9UPJ9lW2iI/AAAAAAAAC0g/NIAjf48TGlA/s1600/who+fears+death.jpg)
 
 <p style="text-align: center;">Cover van Who Fears Death?</p>
 
-Het is daarnaast ook innovatief dat klimaatverandering geen expliciet thema is voor karakters in de roman. Een opwarmende aarde verschroeide het Sudan van *Who Fears Death*, maar de wetenschap en technologieën die het klimaat hadden kunnen beschrijven zijn vergaan. Computers liggen als hopen afval gedumpt in de grotten langs de wegen waarop de hoofdpersonen trekken. 
+Okorafor is ook innovatief in haar benadering van de crisis, doordat klimaatverandering geen expliciet thema is voor haar karakters in de roman. Noch kan het dit worden. 
+
+Een opwarmende aarde verschroeide het Sudan van *Who Fears Death*, maar de wetenschap en technologieën die het klimaat hadden kunnen beschrijven zijn vergaan. Computers liggen als hopen afval gedumpt in de grotten langs de wegen waarop de hoofdpersonen trekken. 
 
 In tegenstelling tot veel Westerse cli-fi zijn er dus ook geen heldhaftige wetenschappers die in naam van de waarheid spreken. Er is geen meesterpositie vanuit waar de situatie beschreven kan worden. Mythe en feit lopen door elkaar heen. 
 
 Okorafor benadrukt door al deze verschillen met Westerse klimaatfictie dat bestaande conflicten en onrechtvaardigheden *verergerd* zullen worden door de opwarming van de aarde, maar dat er geen magische breuk tussen het Nu en de Toekomst is. 
 
-# Andere verbeeldingen
+# Geen literair meesterwerk 
 
 Westerse cli-fi projecteert een wereld waarin 'wij', de 'mensheid', plotseling tot een mensonterende situatie zijn vervallen. Okorafors fictie herinnert ons er eerder aan dat deze situaties *nu* al bestaan, dat mensen in achtergestelde gebieden al een constante klimaatapocalyps [doorleven](https://www.vrt.be/vrtnws/nl/2021/04/30/hongersnood-madagaskar/). Dat er geen verenigde mensheid bestaat.
 
-Okorafor innoveert het cli-fi genre, maar helaas levert dit al met al niet per se een literair hoogstand werk op. *Who Fears Death* staat bol van ongeloofwaardige en slepende dialogen, waarin Okorafors *young adult*-achtergrond doorklinkt. Ze giet een Harry Potter-achtig sausje over de klimaatapocalyps, waardoor deze doordrenkt raakt met puberale dramatiek, getuige het volgende citaat:
+Okorafor innoveert dus het cli-fi genre, maar helaas levert dit al met al niet per se een literair hoogstand werk op. *Who Fears Death* staat bol van ongeloofwaardige en slepende dialogen, waarin Okorafors *young adult*-achtergrond doorklinkt. Ze giet een Harry Potter-achtig sausje over de klimaatapocalyps, waardoor deze doordrenkt raakt met puberale dramatiek, getuige het volgende citaat:
 
 > "Things have been happening to me, yes," I said. "And I think I'm in danger. Something tried to kill me once, a year or so ago. This great oval red eye. It continues to watch me, I think. I need to protect myself. *Oga* Aro, I will become the best and greatest student you will ever have! I know it. I can feel it. I can ... almost touch it." (p. 65)
 
