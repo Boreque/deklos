@@ -215,6 +215,9 @@ nav.main-nav a.cta {
     color: #000000;
     margin-left: 12px;
 }
+
+/* Media Query geeft de functionering aan op kleinere schermen, zoals iPad e.d.. */
+
 @media (max-width: 700px) {
   nav.main-nav {
       padding: 10px 10px 0 0;
@@ -230,7 +233,7 @@ nav.main-nav a.cta {
       padding: 6px 6px;
       background-color: black;
       font-size: 13px;
-      line-height: 1.35;
+      line-height: 2;
       border-radius: 3px;
   }
 }
