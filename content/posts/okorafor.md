@@ -99,9 +99,7 @@ Ondanks de geringe literaire kwaliteit, zal het boek waarschijnlijk invloedrijk 
 
 En deze verrijking is Okorafors grootste verdienste. Door telkens opnieuw te vertellen over wat ons te wachten staat, vanuit werkelijk andere perspectieven, kunnen we inzien hoe we het ons eigen heden vaak stiekem onze verbeeldingen van de toekomst in smokkelen. 
 
-De door Hollywood zo geliefde wetenschapper-redt-de-wereld-cli-fi is niet het enige verhaal dat verteld moet worden. Het kan ons juist afleiden. Nu vindt er namelijk al onrechtvaardigheid plaats die intrinsiek verbonden is met dezelfde dynamiek die bijdragen aan de verstoringen van het klimaat. 
-
-Okorafor verbindt daarom in haar boek de toekomstige onrechtvaardigheid krachtig aan die van het heden. 
+Okorafor verbindt in haar boek de toekomstige onrechtvaardigheid krachtig aan die van het heden. 
 
 ### Bron
 
