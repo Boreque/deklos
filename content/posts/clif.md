@@ -16,23 +16,23 @@ Siberische bosbrand, 2016. [Bron](https://upload.wikimedia.org/wikipedia/commons
 
 ### 
 
-Klifi. Het klinkt eerder als een nieuwe, ietwat experimentele snack van Snackcorner Barry dan een literaire verkenningstocht. Toch heeft 'klifi' niets van doen met gefrituurd rundvlees of in vet gedrenkte salami: kli-fi, dat staat voor 'klimaatfictie', een broertje van de *science fiction*, dat de afgelopen decennia op eigen benen heeft leren staan. 
+Klifi. Het klinkt als een nieuwe, ietwat experimentele snack van Snackcorner Barry. Toch heeft 'klifi' niets van doen met gefrituurd rundvlees of in vet gedrenkte salami: kli-fi, dat staat voor 'klimaatfictie', een broertje van de *science fiction*, dat de afgelopen decennia op eigen benen heeft leren staan. 
 
-In een wereld waarin de aarde steeds meer van zich laat horen, is klifi hip. [Adriaan van Dis](https://www.adriaanvandis.nl/boek/klifi/) noemde een roman naar het genre. [Nieuwsuur](https://nos.nl/nieuwsuur/artikel/2393920-klimaatroman-steeds-populairder-schrijvers-voelen-aankomen-wat-gebeuren-gaat) besprak de aanhoudende vloedgolf aan Nederlandse klimaatromans. [Literaire theoretici](https://www.upress.virginia.edu/title/4777) schrijven er boeken over vol. Kortom, klifi schrijvers reageren op een behoefte naar betekenis in de klimaatcrisis. 
+In een wereld waarin de aarde steeds meer van zich laat horen, is klifi hip. [Adriaan van Dis](https://www.adriaanvandis.nl/boek/klifi/) noemde een roman naar het genre. [Nieuwsuur](https://nos.nl/nieuwsuur/artikel/2393920-klimaatroman-steeds-populairder-schrijvers-voelen-aankomen-wat-gebeuren-gaat) besprak de aanhoudende vloedgolf aan Nederlandse klimaatromans. [Literaire theoretici](https://www.upress.virginia.edu/title/4777) schreven er boeken over vol. Klifi lijkt te reageren op een behoefte naar betekenis in de klimaatcrisis. 
 
 ![](https://github.com/Boreque/deklos/blob/master/static/images/dis.png?raw=true)
 
 <p style="text-align: center;">Adriaan van Dis, 2016. Wikimedia Commons</p>
 
-Voor mijn eigen onderzoek naar de representatie van geologische en planetaire tijd in narratieven heb ik afgelopen tijd een stapel klifi-romans gelezen. Sommige waren beter dan andere, die bleven hangen op goedkoop apocalyptisch vermaak. 
+Voor mijn eigen onderzoek naar de representatie van geologische en planetaire tijd in narratieven heb ik afgelopen tijd een stapel klifi-romans gelezen. Sommige waren goedkoop apocalyptisch vermaak. Andere waren steengoed. Het is, kortom, even zoeken naar de pareltjes in de klifi wereld.
 
-Voor de beginnend klifi-lezer schrijf ik komende maanden een korte reisgids langs de hoogtepunten die ik ben tegengekomen. Ik bespreek over de maanden drie thema's: het Vreemde, het Kind en het Vergane. De eerste stop: het Vreemde. We stappen uit bij Jeff Vandermeer's *Annihilation* (2014). 
+Voor de beginnend klifi-lezer schrijf ik komende maanden een korte reisgids langs de hoogtepunten die ik ben tegengekomen. Ik bespreek komende maanden drie thema's: het Vreemde, het Kind en het Vergane. De eerste stop: het Vreemde. We stappen uit bij Jeff Vandermeer's *Annihilation* (2014). 
 
 ### Het Vreemde
 
 We kennen het klimaat in boeken niet als een doener. In oude romans vormde het klimaat een passieve achtergrond, die weliswaar kon verschillen van gebied tot gebied, maar waar je altijd op kon bouwen. 
 
-Een voorbeeld. Het *Davos* van Thomas Manns bekende roman [*Der Zauberberg*](https://nl.wikipedia.org/wiki/De_Toverberg) is 's winters telkens weer ijskoud, waardoor Hans Castorp zich alle jaren op de berg goed met dekens moet inwikkelen als hij op het balkon ligt. Stel je voor hoe dit boek eruit had gezien als het kuuroord verstoord werd door aardverschuivingen en terugtrekkende gletsjers! De regelmaat van die zeven lange jaren op de top zou een chaotisch opgeschrokken zijn. 
+Een voorbeeld. Het *Davos* van Thomas Manns bekende roman [*Der Zauberberg*](https://nl.wikipedia.org/wiki/De_Toverberg) is 's winters telkens weer ijskoud, waardoor Hans Castorp zich alle jaren op de berg goed met dekens moet inwikkelen als hij op het balkon ligt. Stel je voor hoe dit boek eruit had gezien als het kuuroord verstoord werd door aardverschuivingen en terugtrekkende gletsjers! De regelmaat van die zeven lange jaren op de top zou in complete chaos veranderen. 
 
 In klimaatromans is de aanname van een berekenbaar klimaat doorgestreept. Het klimaat en de niet-menselijke wereld spelen plotseling mee. Ze doemen op uit de coulissen en weigeren van het toneel af te gaan. 
 
@@ -48,7 +48,7 @@ In *Annihilation* laat Vandermeer zien wat voor verschrikking het is wanneer het
 
 In *Annihilation* meldt jonge een biologe zich vrijwillig aan voor een expeditie naar *Area X*, een mysterieus gebied dat al door elf eerdere missies bezocht is. Nooit kwam iemand ongeschonden terug. Met drie anderen, wiens namen geheim blijven, gaat de biologe op onderzoek. 
 
-Er wonen geen mensen in *Area X*, maar het wemelt er van de vreemde wezens die er bijzonder thuis lijken te voelen. Reusachtige alligators. Enorme zwijnen. Vreemde geluiden uit het woud. En de meeste van deze wezens staan niet te springen om menselijke aanwezigheid.
+Er wonen geen mensen in *Area X*, maar het wemelt er van de vreemde wezens die er zich bijzonder thuis lijken te voelen. Reusachtige alligators. Enorme zwijnen. Vreemde geluiden uit het woud. En de meeste van deze wezens staan niet te springen om menselijke aanwezigheid.
 
 De expeditie van de biologe stuit al vrij snel op een vreemde, spiraalvormige tunnel. Bij afdaling blijken er op de muren van de toren planten te groeien, die de letters vormen van een eindeloze zin. 
 
@@ -56,15 +56,13 @@ De expeditie van de biologe stuit al vrij snel op een vreemde, spiraalvormige tu
 
 Later zal blijken dat in de toren een onooglijk organisme leeft dat deze zin '*schrijft*' terwijl het in de toren afdaalt. Het wezen, de 'Crawler', heeft zelf niets menselijks, noch lijkt het begrip te hebben van de taal waarin het schrijft. 
 
-Het imiteert menselijke sporen en gedragingen die achtergelaten zijn in *Area X*. Op volkomen obscure wijze herhaalt het landschap zo de mens. 
+Het imiteert menselijke sporen en gedragingen die achtergelaten zijn in *Area X*. Op volkomen obscure wijze herhaalt het landschap zo de mens. De biologe ontdekt dat de 'Crawler' belangrijk is voor de ecologie *Area X*, alhoewel de exacte samenhang van dit wezen met het landschap niet duidelijk wordt. 
 
-De 'Crawler' speelt een belangrijke rol in *Area X*, dat zich als een vreemdsoortig ecosysteem gedraagt. Menselijke lichamen worden opgeslokt en verschijnen elders opnieuw, als dubbelgangers van de verloren personen. De vormen van dieren mengen zich met die van mensen. Tekens, lichamen, herinneringen: ze worden allemaal meegesleurd in het ondoordringbare metabolisme van het gebied.
+In *Area X* worden menselijke lichamen opgeslokt en verschijnen elders opnieuw, als dubbelgangers van de verloren personen. De vormen van dieren mengen zich met die van mensen. Tekens, lichamen, herinneringen: ze worden allemaal meegesleurd in het ondoordringbare metabolisme van het gebied.
 
-Het landschap is niet te vertrouwen. Maar de biologe kan ook niet meer op enige helderheid van geest rekenen. Zowel haar reisgenoten als de omgeving beïnvloeden haar constant, zodat ze niet meer weet welke ideeën van haarzelf zijn en welke in haar hoofd geplant werden. 
+Het landschap is niet te vertrouwen. Maar de biologe kan ook niet meer op enige helderheid van geest rekenen. Zowel haar reisgenoten als de omgeving beïnvloeden haar constant, zodat ze niet meer weet welke ideeën van haarzelf zijn en welke in haar hoofd geplant werden. Alles staat in deze helse tocht door *Area X* op losse schroeven en als lezer word je steeds dieper deze afgrijselijk onbegrijpelijke wereld ingezogen. 
 
-Alles staat in deze helse tocht door *Area X* op losse schroeven. 
-
-Wat betekent dit alles? *Annihilation* is een desolate vertelling, die gelezen kan worden als een metafoor voor een verstoorde aarde waar mens en natuur versmolten zijn. 
+Wat bedoelt Vandermeer te zeggen met dit boek? *Annihilation* is een desolate vertelling, die gelezen kan worden als een metafoor voor een verstoorde aarde waar mens en natuur versmolten zijn. 
 
 Onze technieken, onze uitstoot, onze aanpassingen: ze zijn nooit in onze controle en ze kunnen op onheilspellende manier terugkeren. Jeff Vandermeer verbeeldt de intrede van onze sporen in ecosystemen voorbij onze denkkaders, een onheilspellende tussenwereld, waarop onze gedachten hun tanden stukbijten. 
 
@@ -83,13 +81,19 @@ Robbie Arnott, [bron](https://taswriters.org/wp-content/uploads/2016/12/Robbie-A
 
 <p style="text-align: center;">Robbie Arnott, schrijver van *The Rain Heron*</p>
 
+#### The Rain Heron
+
 In Robbie Arnott's [*The Rain Heron*](https://www.youtube.com/results?search_query=the%20rain%20heron%20arnott), bijvoorbeeld, komt Verlossing van een mysterieuze regenreiger in de bergen van een post-apocalyptisch continent dat worstelt met de gevolgen van een militaire coup. Hoewel het boek realistisch geschreven is, vormt deze regenreiger een exotische, mythische uitzondering op de orde van de werkelijkheid. 
 
-De reiger is Vreemd. Hij verricht wonderen. Overal waar vogel vliegt brengt hij vruchtbaarheid. Dorre akkers laat hij weer bloeien. 
+De reiger is Vreemd. Hij verricht wonderen. Overal waar hij vliegt brengt hij vruchtbaarheid; dorre akkers beginnen weer te bloeien. 
 
-De reiger is een levend symbool voor onze afhankelijkheid van het klimaat, dat als iets heilig en onschendbaars gezien moet worden. 
+De reiger is daarom een levend symbool voor onze afhankelijkheid van het klimaat, dat als iets heilig en onschendbaars gezien moet worden. 
 
-Het boek vertelt van een militair die de reiger moet vangen, maar in aanraking met het dier uiteindelijk gedwongen wordt om de haat in zichzelf onder ogen te komen. Hier is het dus de aanraking met het Vreemde en het respect voor dat wat de menselijke orde te boven gaat (het klimaat, de planeet) wat de mens kan inspireren en helen. Dit is echte feel-good klifi. 
+Het boek vertelt van een militair die de reiger moet vangen, maar in aanraking met het dier uiteindelijk gedwongen wordt om de haat in zichzelf onder ogen te komen. 
+
+Hier is het dus de aanraking met het Vreemde en het respect voor dat wat de menselijke orde te boven gaat (het klimaat, de planeet) wat de mens kan inspireren en helen. Echte feel-good klifi (afgezien van enkele moorden en uitgetrokken oogballen). 
+
+#### Oryx and Crake
 
 Margaret Atwood, schrijfster van *The Handmaid's Tale*, voltooide al in 2003 een klimaatroman. Haar fenomenale [*Oryx and Crake*](https://en.wikipedia.org/wiki/Oryx_and_Crake) is een vingeroefening in vreemdheid. De hoofdpersoon Snowman lijkt de laatst levende mens te zijn in een vernietigde wereld, te midden van gemuteerde varkens, bloeddorstige (maar schattige) puppy's en volledig geweldloze genetisch aangepaste mensachtigen die een onzichtbaar wezen genaamd 'Crake' vereren. 
 
@@ -111,7 +115,7 @@ Doordat je langzaam leert dat Snowman komt waar hij nu is dankzij het roekeloze 
 
 De onherkenbare wereld waarin Snowman leeft bevat brokstukken die al te herkenbaar zijn, zoals genetische experimenten en de commodificatie van de biologie. 
 
-Al lachend besef je door Atwood hoe de mens constant zijn eigen vernietiging binnen handbereik heeft.
+Atwood heeft daarmee een gitzwarte, maar treffende reflectie geschreven op hoe de mens zijn eigen vernietiging binnen handbereik heeft.
 
 ### Het Vreemde Temmen?
 
